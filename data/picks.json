@@ -1,0 +1,78 @@
+{
+  "updated": "2026-11-20",
+  "picks": [
+    {
+      "company": "GitHub",
+      "title": "Staff Software Engineer, GitHub Intelligence (Copilot Agents)",
+      "url": "https://www.usaremotejobs.app/job/github-staff-software-engineer-github-intelligence-copilot-agents-remote-los-angeles-ca",
+      "salary": "$140k\u2013$372k base + stock",
+      "location": "Remote, US",
+      "why": "Leads the context layer for Copilot agents (memory, retrieval, evals), very close to the agent context/memory system already built.",
+      "ops_flag": true,
+      "ops_note": "First-responder on-call rotation where applicable",
+      "rank": 1,
+      "found_date": "2026-11-20"
+    },
+    {
+      "company": "Unnamed fintech (via Jobgether)",
+      "title": "Staff Software Engineer, AI Developer Productivity",
+      "url": "https://jobs.lever.co/jobgether/b5e64d0b-a1ee-4126-9f85-6607ff7b198d",
+      "salary": "$218k\u2013$256.5k base",
+      "location": "Remote, US",
+      "why": "Designs agents for code review, test generation and CI/CD: internal AI dev tooling.",
+      "ops_flag": false,
+      "ops_note": "",
+      "rank": 2,
+      "found_date": "2026-11-20"
+    },
+    {
+      "company": "ShiftKey",
+      "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+      "url": "https://jobs.ashbyhq.com/shiftkey/2d49484b-f266-4250-a24c-013d8e274559",
+      "salary": "",
+      "location": "Remote (per aggregator, unconfirmed)",
+      "why": "Owns the agentic platform at a company going AI-native.",
+      "ops_flag": false,
+      "ops_note": "On-call not checked (page partly loaded)",
+      "rank": 3,
+      "found_date": "2026-11-20"
+    },
+    {
+      "company": "Dave",
+      "title": "Staff AI Acceleration Engineer",
+      "url": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc",
+      "salary": "",
+      "location": "Unconfirmed",
+      "why": "Builds an internal AI Agent Factory to automate work.",
+      "ops_flag": false,
+      "ops_note": "Location not confirmed",
+      "rank": 4,
+      "found_date": "2026-11-20"
+    },
+    {
+      "company": "brightwheel",
+      "title": "Principal AI Software Engineer, Platform",
+      "url": "https://jobs.ashbyhq.com/brightwheel/7ef0532b-77fd-4f79-a6d5-360cc4273f41",
+      "salary": "",
+      "location": "Distributed US (unconfirmed for role)",
+      "why": "Principal AI platform role centered on directing agents to build.",
+      "ops_flag": false,
+      "ops_note": "Location not confirmed",
+      "rank": 5,
+      "found_date": "2026-11-20"
+    },
+    {
+      "company": "Curai Health",
+      "title": "Senior Software Engineer, Agentic AI",
+      "url": "https://jobs.lever.co/curai/cd31b67b-d83c-466a-ac55-cfa4c2ec4237",
+      "salary": "$175k\u2013$210k",
+      "location": "Remote, US",
+      "why": "Hands-on agent systems and evals; one level below target.",
+      "ops_flag": false,
+      "ops_note": "",
+      "rank": 6,
+      "found_date": "2026-11-20"
+    }
+  ],
+  "company_notes": []
+}

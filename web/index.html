@@ -1,149 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FinTech Job Board</title>
-    <meta name="description" content="Open roles sourced directly from company careers pages: Visa, MasterCard, Stripe, PayPal, Coinbase, Ramp, Plaid, Robinhood, Brex, and Affirm.">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Job Radar</title>
+  <meta name="description" content="Remote Staff+ roles in agent infrastructure, AI developer productivity and forward-deployed AI, plus a radar of companies that pay well for them.">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
 </head>
-<body data-page="fintech">
-    <!-- Clean Top Navigation Bar -->
-    <header class="navbar">
-        <div class="nav-container">
-            <a href="index.html" class="brand-wrapper" id="brand-link">
-                <div class="brand-icon">⚡</div>
-                <div class="brand-text">
-                    <span class="brand-title">FinTech Job Board</span>
-                </div>
-            </a>
-            <div class="nav-badge-pill" aria-label="Job Count Status">
-                <span class="pulse-dot"></span>
-                <span id="nav-count-badge">1,400+ Open Roles</span>
-            </div>
-        </div>
-    </header>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>AI Job Radar</h1>
+        <p class="sub">Remote US · Staff+ · agent infra, AI dev productivity, forward-deployed, AI-native founding roles</p>
+      </div>
+      <div class="stats" id="stats" aria-live="polite"></div>
+    </div>
+    <nav class="wrap tabs" role="tablist">
+      <button role="tab" class="tab active" data-tab="picks" aria-selected="true">Top picks</button>
+      <button role="tab" class="tab" data-tab="matches" aria-selected="false">All matches</button>
+      <button role="tab" class="tab" data-tab="companies" aria-selected="false">Company radar</button>
+    </nav>
+  </header>
 
-    <!-- Main Content Container -->
-    <main class="container">
-        <!-- Compact Header -->
-        <section class="hero" aria-labelledby="hero-title">
-            <div class="hero-main">
-                <h1 id="hero-title" class="hero-title">
-                    FinTech Job Board
-                </h1>
-                <p class="hero-desc">
-                    Open roles sourced directly from company careers pages: <strong>Visa</strong>, <strong>MasterCard</strong>, <strong>Stripe</strong>, <strong>PayPal</strong>, <strong>Coinbase</strong>, <strong>Ramp</strong>, <strong>Plaid</strong>, <strong>Robinhood</strong>, <strong>Brex</strong>, and <strong>Affirm</strong>.
-                </p>
-            </div>
-            
-            <!-- Compact Action & Preset Manager -->
-            <div class="action-bar">
-                <select id="saved-views-select" class="saved-views-select" aria-label="Load Saved Filter Preset">
-                    <option value="">📁 Saved Searches</option>
-                </select>
-                <button id="save-view-btn" class="btn-action-pill" type="button" title="Save this search filter as a preset">
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                    <span>Save Search</span>
-                </button>
-                <button id="copy-link-btn" class="btn-action-pill" type="button" title="Copy shareable link with current filters">
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-                        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
-                        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
-                    </svg>
-                    <span>Share View</span>
-                </button>
-            </div>
-        </section>
+  <main class="wrap">
+    <section id="tab-picks" class="panel" role="tabpanel">
+      <p class="note" id="picks-note"></p>
+      <ol id="picks" class="list"></ol>
+      <div id="company-notes"></div>
+    </section>
 
-        <!-- Compact Linear-Style Command Toolbar (Option A) -->
-        <section class="command-toolbar" aria-label="Job Search & Filter Controls">
-            <!-- Row 1: Search + Sort -->
-            <div class="toolbar-search-row">
-                <div class="search-input-wrapper">
-                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <circle cx="11" cy="11" r="8"></circle>
-                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                    </svg>
-                    <input type="text" id="search-input" class="search-input" placeholder="Search by title, skill, company, or keyword (e.g. Staff, Python, Risk, Payments)..." aria-label="Search jobs">
-                </div>
-                <select id="sort-select" class="filter-dropdown-select" aria-label="Sort Order">
-                    <option value="newest">Sort: Newest Requisitions</option>
-                    <option value="company">Sort: Company (A-Z)</option>
-                    <option value="title">Sort: Role (A-Z)</option>
-                </select>
-            </div>
+    <section id="tab-matches" class="panel" role="tabpanel" hidden>
+      <div class="filters">
+        <input id="q" type="search" placeholder="Search title, company, location…" aria-label="Search">
+        <select id="lane" aria-label="Lane"><option value="">All lanes</option></select>
+        <select id="company" aria-label="Company"><option value="">All companies</option></select>
+        <select id="minpay" aria-label="Minimum pay">
+          <option value="0">Any pay</option>
+          <option value="200000">Top of range ≥ $200k</option>
+          <option value="250000">≥ $250k</option>
+          <option value="300000">≥ $300k</option>
+        </select>
+        <select id="sort" aria-label="Sort">
+          <option value="fit">Sort: best fit</option>
+          <option value="new">Sort: newest</option>
+          <option value="pay">Sort: highest pay</option>
+        </select>
+        <label class="check"><input id="hideops" type="checkbox" checked> Hide on-call flavored</label>
+      </div>
+      <p class="note" id="matches-count"></p>
+      <ul id="matches" class="list"></ul>
+    </section>
 
-            <!-- Row 2: Filter Menus + Quick Shortcuts + Clear -->
-            <div class="toolbar-filters-row">
-                <div class="filter-dropdown-group">
-                    <select id="filter-function" class="filter-dropdown-select" data-filter-key="function" aria-label="Filter by Function">
-                        <option value="all">Role: All Functions</option>
-                        <option value="Software Engineering">Engineering</option>
-                        <option value="Product Management">Product</option>
-                        <option value="Data & AI">Data &amp; AI</option>
-                        <option value="Risk & Compliance">Risk &amp; Compliance</option>
-                        <option value="DevOps & Infra">Platform &amp; Infra</option>
-                        <option value="Finance & Ops">Finance &amp; Ops</option>
-                    </select>
+    <section id="tab-companies" class="panel" role="tabpanel" hidden>
+      <div class="filters">
+        <select id="tier" aria-label="Tier">
+          <option value="">All tiers</option>
+          <option value="A">Tier A: top pay + remote in lane</option>
+          <option value="B">Tier B: strong on one</option>
+        </select>
+      </div>
+      <div id="companies" class="grid"></div>
+    </section>
+  </main>
 
-                    <select id="filter-level" class="filter-dropdown-select" data-filter-key="level" aria-label="Filter by Seniority">
-                        <option value="all">Level: All Levels</option>
-                        <option value="Senior">Senior</option>
-                        <option value="Staff / Lead">Staff / Lead</option>
-                        <option value="Principal">Principal</option>
-                        <option value="Mid-Level">Mid-Level</option>
-                        <option value="Entry / Associate">Associate</option>
-                        <option value="Director / Exec">Director / Exec</option>
-                    </select>
-
-                    <select id="filter-metro" class="filter-dropdown-select" data-filter-key="metro" aria-label="Filter by Location">
-                        <option value="na" selected>Location: North America</option>
-                        <option value="all">Location: Worldwide (All)</option>
-                        <option value="Remote">Location: Remote Only</option>
-                        <option value="SF Bay Area">Location: SF Bay Area</option>
-                        <option value="New York Metro">Location: New York</option>
-                        <option value="Austin, TX">Location: Austin</option>
-                        <option value="Seattle, WA">Location: Seattle</option>
-                        <option value="Europe / UK">Location: Europe &amp; UK</option>
-                        <option value="international">Location: Global / Non-NA</option>
-                    </select>
-
-                    <select id="company-select" class="filter-dropdown-select" aria-label="Filter by Company">
-                        <option value="all">Company: All Companies</option>
-                    </select>
-
-                    <button id="clear-filters-btn" class="btn-clear-filters" type="button" style="display: none;">
-                        Clear filters ✕
-                    </button>
-                </div>
-
-                <div class="quick-chips-inline" role="toolbar" aria-label="Curated Quick Filters">
-                    <button type="button" class="quick-chip-btn active" data-shortcut="all">All</button>
-                    <button type="button" class="quick-chip-btn" data-shortcut="staff">Staff+</button>
-                    <button type="button" class="quick-chip-btn" data-shortcut="rails">Card Rails</button>
-                    <button type="button" class="quick-chip-btn" data-shortcut="risk">Risk &amp; AML</button>
-                    <button type="button" class="quick-chip-btn" data-shortcut="remote-pm">Remote PM</button>
-                    <button type="button" class="quick-chip-btn" data-shortcut="crypto">Crypto</button>
-                </div>
-            </div>
-        </section>
-
-        <!-- Results Summary Header -->
-        <div class="results-header">
-            <div id="results-count" class="results-count">Loading FinTech roles...</div>
-        </div>
-
-        <!-- Job Cards Container -->
-        <section id="jobs-container" class="jobs-grid" aria-label="Job Postings List">
-            <div class="state-message">
-                <div class="state-icon">☕</div>
-                <div class="state-title">Loading curated FinTech opportunities...</div>
-            </div>
-        </section>
-    </main>
-
-    <script src="script.js"></script>
+  <footer class="wrap foot">
+    Roles: scraped daily from company job boards and filtered for fit. Picks and new companies: added by a daily Claude scan.
+    <span id="updated"></span>
+  </footer>
+  <script src="script.js"></script>
 </body>
 </html>
