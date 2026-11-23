@@ -1,17 +1,28 @@
-name: Job Search Agent Pipeline
+name: AI Job Radar Pipeline
 
 on:
   schedule:
-    # Run twice a day on workdays (Mon-Fri) at off-peak minutes:
-    # - 10:45 UTC: 6:45 AM ET / 5:45 AM CT / 3:45 AM PT (Morning Fresh before work begins)
-    # - 21:45 UTC: 5:45 PM ET / 4:45 PM CT / 2:45 PM PT (Afternoon Intake after recruiter syncs)
-    - cron: '45 10,21 * * 1-5'
-  workflow_dispatch: # Allow manual trigger anytime via GitHub UI
+    # Daily 13:30 UTC (5:30 AM PT), before the daily Claude scan reads the board.
+    - cron: '30 13 * * *'
+  push:
+    # Rebuild the site when the daily Claude run updates picks or the company radar.
+    branches: [main]
+    paths:
+      - 'data/picks.json'
+      - 'data/companies.json'
+      - 'scrapers/**'
+      - 'main.py'
+      - 'web/**'
+  workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
 
 jobs:
   run-and-deploy:
@@ -26,12 +37,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          playwright install --with-deps chromium
+        run: pip install -r requirements.txt
 
-      - name: Run Scraper
+      - name: Run scraper + fit filter
         run: python main.py
 
       - name: Commit seen jobs back to repository
@@ -39,18 +47,9 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/jobs.json
-          # Only commit if there are changes
           git commit -m "chore: update jobs.json with latest scrape [skip ci]" || echo "No changes to commit"
+          git pull --rebase --autostash || true
           git push
-
-      - name: Prepare Web Deployment
-        run: |
-          # Copy the latest jobs.json into the web folder for deployment
-          if [ -f "data/jobs.json" ]; then
-            cp data/jobs.json web/jobs.json
-          else
-            echo "[]" > web/jobs.json
-          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

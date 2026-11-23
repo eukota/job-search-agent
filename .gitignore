@@ -7,3 +7,7 @@ env/
 jobs.db
 scratch/
 .DS_Store
+web/jobs.json
+web/picks.json
+web/companies.json
+logs/

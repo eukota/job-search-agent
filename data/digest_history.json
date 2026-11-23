@@ -1,0 +1,4126 @@
+{
+  "note": "Parsed from ai-job-search-all-results.md (36 daily runs of the Claude desktop task, Oct 18 - Nov 22 2026). None were emailed. Pay, location and flags are as each run wrote them and were not re-verified. url only where the run wrote one. Not read by main.py.",
+  "runs": 36,
+  "days": [
+    {
+      "date": "2026-11-22",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180k–$400k",
+          "detail": "$180k–$400k, remote North America. Close to your Axon AI work: MCP integrations, dev environments built for agents, agent context and enablement. ⚠️ The apply page tells you to run curl against a Hightouch host on an unusual port; check before running anything.",
+          "flags": [
+            "The apply page tells you to run curl against a Hightouch host on an unusual port; check before running anything."
+          ],
+          "url": null
+        },
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218k–$257k",
+          "detail": "$218k–$257k. Agent workflows for code review and test generation. US remote with quarterly in-person meetups.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Smartsheet",
+          "title": "Senior Forward Deployed AI Engineer",
+          "salary": "$227.5k–$245k",
+          "detail": "$227.5k–$245k, remote US. Multi-agent solutions and MCP packs, 25–50% travel.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Reddit",
+          "title": "Senior Forward Deployed Engineer (AI Enablement)",
+          "salary": "$180k–$252k",
+          "detail": "$180k–$252k. Internal agents replacing manual work for business teams. ⚠️ Some production ownership; one job site lists it as a contract role.",
+          "flags": [
+            "Some production ownership; one job site lists it as a contract role."
+          ],
+          "url": null
+        },
+        {
+          "company": "Curai",
+          "title": "Senior Software Engineer, Agentic AI",
+          "salary": "$175k–$210k",
+          "detail": "$175k–$210k, 100% remote US.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Helmsted",
+          "title": "Founding AI Engineer",
+          "salary": "$160k–$200k",
+          "detail": "$160k–$200k plus equity, remote US.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170k–$276k",
+          "detail": "$170k–$276k. ⚠️ On-call rotation.",
+          "flags": [
+            "On-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "",
+          "detail": "comp not listed. ⚠️ On-call and incident response are stated duties.",
+          "flags": [
+            "On-call and incident response are stated duties."
+          ],
+          "url": null
+        },
+        {
+          "company": "LTV.ai",
+          "title": "Staff Engineer",
+          "salary": "$195k–$245k",
+          "detail": "$195k–$245k. ⚠️ Also keep a high-volume email system healthy in production.",
+          "flags": [
+            "Also keep a high-volume email system healthy in production."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "($180K–$400K, remote North America). Own their internal agentic dev setup, including MCP integrations and agent docs. Closest match to your Axon work; no on-call listed. There's also a non-Staff version of the same role.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Airbnb",
+          "title": "Senior Staff Software Engineer, AI for Developer Productivity",
+          "salary": "$244K–$304K",
+          "detail": "($244K–$304K, US remote with occasional office visits). Hands-on AI strategy for build, test and deploy.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218K–$256.5K",
+          "detail": "($218K–$256.5K base, posted Nov 10). Agent workflows for code review, refactoring and test generation. ⚠️ Quarterly in-person gatherings.",
+          "flags": [
+            "Quarterly in-person gatherings."
+          ],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170K–$276K",
+          "detail": "($170K–$276K, posted about Nov 17). Self-service AI tools platform. ⚠️ On-call rotation (evenings and weekends) and incident-response work.",
+          "flags": [
+            "On-call rotation (evenings and weekends) and incident-response work."
+          ],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130K–$150K",
+          "detail": "($130K–$150K plus equity, remote, HN hiring thread). Agent-driven product; pay well below your level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Hopper",
+          "title": "Forward Deployed AI Engineer",
+          "salary": "",
+          "detail": "(remote US). Level not stated; check before applying.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "roles": [
+        {
+          "company": "GitHub",
+          "title": "Staff Software Engineer, GitHub Intelligence (Copilot Agents)",
+          "salary": "$140.4k–$372.3k",
+          "detail": "Remote US, $140.4k–$372.3k base plus stock, posted Nov 14. Lead the context layer for Copilot agents (memory, retrieval, evals) — very close to your context/memory system for agent swarms. ⚠️ First-responder on-call.",
+          "flags": [
+            "First-responder on-call."
+          ],
+          "url": "https://www.usaremotejobs.app/job/github-staff-software-engineer-github-intelligence-copilot-agents-remote-los-angeles-ca"
+        },
+        {
+          "company": "Unnamed fintech via Jobgether",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218k–$256.5k",
+          "detail": "Remote US with quarterly in-person sessions, $218k–$256.5k, posted Nov 10. AI agents for code review, test generation and CI/CD. No on-call mentioned. (Likely the Coinbase role.)",
+          "flags": [],
+          "url": "https://jobs.lever.co/jobgether/b5e64d0b-a1ee-4126-9f85-6607ff7b198d"
+        },
+        {
+          "company": "ShiftKey",
+          "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+          "salary": "",
+          "detail": "A job aggregator lists it as remote. Own the platform at a company trying to become AI-native.",
+          "flags": [],
+          "url": "https://jobs.ashbyhq.com/shiftkey/2d49484b-f266-4250-a24c-013d8e274559"
+        },
+        {
+          "company": "Dave",
+          "title": "Staff AI Acceleration Engineer",
+          "salary": "",
+          "detail": "Build an internal \"AI Agent Factory\" that automates work.",
+          "flags": [],
+          "url": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc"
+        },
+        {
+          "company": "brightwheel",
+          "title": "Principal AI Software Engineer, Platform",
+          "salary": "",
+          "detail": "Company distributed across US time zones; Principal-level AI platform job.",
+          "flags": [],
+          "url": "https://jobs.ashbyhq.com/brightwheel/7ef0532b-77fd-4f79-a6d5-360cc4273f41"
+        },
+        {
+          "company": "Curai Health",
+          "title": "Senior Software Engineer, Agentic AI",
+          "salary": "$175k–$210k",
+          "detail": "100% remote US, $175k–$210k. Applied, product-facing, a level below you.",
+          "flags": [],
+          "url": "https://jobs.lever.co/curai/cd31b67b-d83c-466a-ac55-cfa4c2ec4237"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "roles": [
+        {
+          "company": "Jobber",
+          "title": "Principal Engineer (AI, Office of the CEO)",
+          "salary": "$229k–$310k",
+          "detail": "Remote US, posted Nov 9. $229k–$310k plus equity, possibly in CAD. Founding engineer for their internal AI systems. Strongest fit.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170k–$276k",
+          "detail": "$170k–$276k, remote-first, posted about Nov 17. Lead a self-service AI tools platform and the agents built on it. ⚠️ May include an on-call rotation.",
+          "flags": [
+            "May include an on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "TRM Labs",
+          "title": "Staff Agent Engineer",
+          "salary": "",
+          "detail": "US remote, agent infrastructure. ⚠️ Mentions \"operational tooling\"; full description not readable, so check for on-call.",
+          "flags": [
+            "Mentions \"operational tooling\"; full description not readable, so check for on-call."
+          ],
+          "url": null
+        },
+        {
+          "company": "Synthetic",
+          "title": "Staff/Principal Software Engineer",
+          "salary": "",
+          "detail": "US remote, early-stage AI + fintech startup. Only a one-line summary was readable.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Home Depot",
+          "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+          "salary": "$100k–$180k",
+          "detail": "$100k–$180k, closes Nov 30. Likely below your level. ⚠️ Production support and alerting.",
+          "flags": [
+            "Production support and alerting."
+          ],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "",
+          "detail": "Remote-first US. ⚠️⚠️ Explicitly includes on-call and incident response.",
+          "flags": [
+            "Explicitly includes on-call and incident response."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff AI Productivity Engineer",
+          "salary": "$180K–$320K",
+          "detail": "Remote North America, $180K–$320K. Own the agentic dev environment, MCP integrations and agents.md, and drive AI enablement — almost exactly your vanguard work. The application asks you to curl an API endpoint; look at it yourself before running anything.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Capital One",
+          "title": "Senior Staff AI Engineer, Agentic AI Platform",
+          "salary": "$286K–$327K",
+          "detail": "Remote, $286K–$327K. Set the architecture for an enterprise agent platform. Asks for 10+ years of AI/ML.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Supabase",
+          "title": "AI Platform Engineer",
+          "salary": "",
+          "detail": "Fully remote, pay not listed, posted Nov 15. Build the runtime for internal agents, plus durable state, a review gate and evals. ⚠️ \"Own the infrastructure end to end.\"",
+          "flags": [
+            "\"Own the infrastructure end to end."
+          ],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "Remote US, $250K–$325K base. Lead the agent orchestration layer. ⚠️ Explicit incident on-call rotation.",
+          "flags": [
+            "Explicit incident on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Moxie",
+          "title": "Staff AI Engineer",
+          "salary": "$97K–$170K",
+          "detail": "Remote, $97K–$170K, posted Nov 16. Lead its shared AI platform and a \"Context Engine.\" Pay low for your level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "The Home Depot",
+          "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+          "salary": "$100K–$180K",
+          "detail": "Remote but may require living near an office. $100K–$180K, apply by Nov 30. ⚠️ Production support and alert monitoring.",
+          "flags": [
+            "Production support and alert monitoring."
+          ],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130K–$150K",
+          "detail": "Remote, $130K–$150K plus equity. From HN's November hiring thread.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Remote.com",
+          "title": "Senior Forward Deployed Engineer",
+          "salary": "$53K–$216K",
+          "detail": "Remote North America, $53K–$216K. ⚠️ Incident response among the duties.",
+          "flags": [
+            "Incident response among the duties."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "roles": [
+        {
+          "company": "GitLab",
+          "title": "Staff AI Engineer, AI Engineering",
+          "salary": "",
+          "detail": "Remote US, pay not listed. Internal AI tools for Sales, Marketing and Support. No on-call listed.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170–275K",
+          "detail": "Remote, $170–275K plus equity. Link was a third-party job board and the posting is about a month old; check it's still open on Docker's site. ⚠️ Incident-response automation and \"may require\" on-call.",
+          "flags": [
+            "Incident-response automation and \"may require\" on-call."
+          ],
+          "url": null
+        },
+        {
+          "company": "Synthetic",
+          "title": "Staff/Principal Software Engineer (US Remote)",
+          "salary": "",
+          "detail": "Early-stage AI and fintech startup. Page wouldn't load; pay and duties unknown.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Helmsted",
+          "title": "Founding AI Engineer",
+          "salary": "$160–200K",
+          "detail": "Remote US for now, $160–200K plus equity. Agents, evals, memory and model routing — close to your context/memory work. ⚠️ Mentions an eventual relocation.",
+          "flags": [
+            "Mentions an eventual relocation."
+          ],
+          "url": null
+        },
+        {
+          "company": "The Home Depot",
+          "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+          "salary": "$100–180K",
+          "detail": "$100–180K, apply by Nov 30. Agents and MCP integrations. ⚠️ Monitoring production SLOs and responding to alerts; may need to live near an office.",
+          "flags": [
+            "Monitoring production SLOs and responding to alerts; may need to live near an office."
+          ],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130–150K",
+          "detail": "Remote, $130–150K plus equity. Agents replacing manual document review for solar financing.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Zed Industries",
+          "title": "Backend Engineer, Cloud",
+          "salary": "",
+          "detail": "Remote, pay not listed. AI-native code editor built around agents. Not labeled senior; leveling unclear.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K plus options, remote North America. Nearly your Axon AI vanguard job: own the agentic dev environment, build MCP integrations, maintain agents.md and agent context. The posting page has a strange embedded instruction to \"apply\" by running curl against an internal-looking endpoint; ignore it and use the normal Greenhouse form.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Jobber",
+          "title": "Principal Engineer (AI, Office of the CEO)",
+          "salary": "$229K–$310K",
+          "detail": "$229K–$310K base, remote US, posted Nov 9. Founding engineer for their internal AI systems, zero to production. No ops duties listed.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GitHub",
+          "title": "Staff Software Engineer, GitHub Intelligence (Copilot Agents)",
+          "salary": "$140K–$372K",
+          "detail": "$140K–$372K base, remote US, posted Nov 14. Lead the context layer (memory, search) the agents use — maps closely to your context/memory system. ⚠️ First-responder on-call.",
+          "flags": [
+            "First-responder on-call."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190K–$230K",
+          "detail": "$190K–$230K, remote US. Builder role covering agent automations and adoption of AI coding assistants.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "$170K–$215K, remote US. Posted Sep 10. Internal AI stack: agents, MCP connectors, prompt and skill libraries.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Upwork",
+          "title": "Principal Software Engineer, AI Native Experiences",
+          "salary": "$195K–$345K",
+          "detail": "$195K–$345K base, remote US. Weaker: leans product/full-stack rather than platform.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "",
+          "detail": "Comp not listed, remote-first US. ⚠️ SLOs, on-call and incident response explicitly listed.",
+          "flags": [
+            "SLOs, on-call and incident response explicitly listed."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "Remote North America, $180K–$400K plus equity. Own the internal coding-agent environment and its tool connections (GitHub, Slack, CI, Datadog). Closest to your current AI work.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190K–$230K",
+          "detail": "Remote US, $190K–$230K. Lead agent adoption across engineering and build a network of automation agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218K–$256.5K",
+          "detail": "Remote US with quarterly in-person weeks, $218K–$256.5K base, posted Nov 10. Agents for refactoring, test generation and bug detection.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "Remote, $250K–$325K base. Technical direction for the agent orchestration layer. ⚠️ Explicit on-call rotation.",
+          "flags": [
+            "Explicit on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Rula",
+          "title": "Staff Forward Deployed Engineer, Applied AI",
+          "salary": "$145K–$190K",
+          "detail": "100% remote US. No pay range in the posting; the job site's $145K–$190K is an estimate. AI tools for internal teams.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130K–$150K",
+          "detail": "Remote, $130K–$150K plus equity, seed stage. AI agents for document review in solar financing. Pay well below the others.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K, remote North America. Closest match to your Axon AI work: agent dev environments, MCP integrations, and getting engineers using AI coding tools. Application asks you to run a curl command against their server first — probably a screening puzzle, but look before running.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218K–$256.5K",
+          "detail": "$218K–$256.5K, remote US, posted Nov 10. Agents that refactor code, write tests and find bugs. Only seen on a job aggregator; Coinbase's own page wouldn't load.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190K–$230K",
+          "detail": "$190K–$230K, remote US. Lead AI adoption across engineering and build automation agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "TRM Labs",
+          "title": "Staff Software Engineer, Agent Engineering",
+          "salary": "$200K–$275K",
+          "detail": "About $200K–$275K, remote US. Agent framework with tools, retrieval and memory, mapping to your context/memory system. ⚠️ The application asks whether you'll take on-call, and the posting dates from March, so it may be stale.",
+          "flags": [
+            "The application asks whether you'll take on-call, and the posting dates from March, so it may be stale."
+          ],
+          "url": null
+        },
+        {
+          "company": "Cresta",
+          "title": "Senior Forward Deployed Engineer (AI Agent)",
+          "salary": "$185K–$235K",
+          "detail": "$185K–$235K, remote US. No on-call listed, but customer-facing and only asks for 3+ years.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Helmsted",
+          "title": "Founding AI Engineer",
+          "salary": "$160K–$200K",
+          "detail": "(careers page). $160K–$200K plus equity, remote US. Founding role on a product for wealth advisors, not dev tools; lower cash.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "roles": [
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218K–$256K",
+          "detail": "$218K–$256K base. Posted Nov 10. A founding role building agentic coding workflows, very close to your Axon AI work. Remote-first with quarterly meetups.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Airbnb",
+          "title": "Senior Staff Software Engineer, AI for Developer Productivity",
+          "salary": "$244K–$304K",
+          "detail": "$244K–$304K. Set AI strategy across build, test and deploy while still coding.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Smartsheet",
+          "title": "Senior Forward Deployed AI Engineer",
+          "salary": "$227.5K–$245K",
+          "detail": "$227.5K–$245K. Multi-agent customer deployments and MCP. Requires 25–50% travel.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Forward Deployed AI Engineer (senior)",
+          "salary": "$180K–$225K",
+          "detail": "$180K–$225K. Technical lead on agent deployments.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Curai",
+          "title": "Sr Software Engineer, Agentic AI",
+          "salary": "",
+          "detail": "US remote, healthcare AI agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "ShiftKey",
+          "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+          "salary": "",
+          "detail": "AI infrastructure on AWS plus reference agent builds. Listing looks about 4 months old; may be closed.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "The Home Depot",
+          "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+          "salary": "$100K–$180K",
+          "detail": "$100K–$180K. ⚠️ Production support and SLO monitoring.",
+          "flags": [
+            "Production support and SLO monitoring."
+          ],
+          "url": null
+        },
+        {
+          "company": "Thankly",
+          "title": "Founding Engineer",
+          "salary": "",
+          "detail": "US remote, early-stage.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "roles": [
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218K–$256.5K",
+          "detail": "$218K–$256.5K base, posted Nov 10, remote US with quarterly in-person meetups. AI agent workflows for code review, test generation and bug detection — the internal AI tooling you already do.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Federato",
+          "title": "Staff Software Engineer, AI Systems",
+          "salary": "$215K–$250K",
+          "detail": "$215K–$250K base plus options, remote US or Canada. Backend for agent orchestration, tool integration and evals.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Netflix",
+          "title": "Software Engineer 5, Agent Platform",
+          "salary": "",
+          "detail": "Remote US, no pay listed. Core agent runtime, SDK and memory, close to your context/memory system. ⚠️ Posting says \"design, build, and operate\" and dates from June; check it's still open.",
+          "flags": [
+            "Posting says \"design, build, and operate\" and dates from June; check it's still open."
+          ],
+          "url": null
+        },
+        {
+          "company": "Rula",
+          "title": "Staff Forward Deployed Engineer, Applied AI",
+          "salary": "$145K–$190K",
+          "detail": "Posted about Nov 8, fully remote US. $145K–$190K is the job board's estimate, not Rula's. AI tools replacing manual work for business and clinical teams.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "$250K–$350K",
+          "detail": "$250K–$350K, remote US. ⚠️ On-call, incident response and owning service-level targets, working closely with SRE.",
+          "flags": [
+            "On-call, incident response and owning service-level targets, working closely with SRE."
+          ],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "$250K–$325K base, posted Oct 30, remote US. Set direction for GitLab's agent orchestration layer. ⚠️ Incident on-call rotation.",
+          "flags": [
+            "Incident on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "First American",
+          "title": "Staff Software Engineer, AI-Native Platform",
+          "salary": "$148.6K–$198.2K",
+          "detail": "$148.6K–$198.2K, posted Nov 6, remote US. Architect across teams and roll out AI-assisted development. ⚠️ Mentions defining incident-response patterns.",
+          "flags": [
+            "Mentions defining incident-response patterns."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "roles": [
+        {
+          "company": "Coinbase",
+          "title": "Staff Software Engineer, AI Developer Productivity",
+          "salary": "$218–256K",
+          "detail": "$218–256K base. Posted Nov 10. Remote-first with quarterly in-person meetups. Owns agent-based coding tools from code review through deploy.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Jobber",
+          "title": "Principal Engineer (AI, Office of the CEO)",
+          "salary": "$229–310K",
+          "detail": "$229–310K. Posted Nov 9. Remote US. Build AI systems from scratch and make build-vs-buy calls.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Capital One",
+          "title": "Senior Staff AI Engineer, Agentic AI Platform",
+          "salary": "$286–327K",
+          "detail": "$286–327K for remote hires. ⚠️ Duties include \"support\" of production systems.",
+          "flags": [
+            "Duties include \"support\" of production systems."
+          ],
+          "url": null
+        },
+        {
+          "company": "TRM Labs",
+          "title": "Staff Agent Engineer (US Remote)",
+          "salary": "",
+          "detail": "No pay listed. Only a summary of the posting was readable.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Unnamed company (via Jobgether)",
+          "title": "Senior SWE, AI DevEx",
+          "salary": "$150–190K",
+          "detail": "$150–190K. Fully remote. A platform for coding agents, very close to your Axon work, though level and pay are lower. ⚠️ Part of the job connects agents to incident tools.",
+          "flags": [
+            "Part of the job connects agents to incident tools."
+          ],
+          "url": null
+        },
+        {
+          "company": "Zocdoc",
+          "title": "Staff Platform Engineer, AI Enablement",
+          "salary": "$210–270K",
+          "detail": "$210–270K. Open to remote, team in NYC, posting about 8 weeks old. ⚠️ Mentions on-call.",
+          "flags": [
+            "Mentions on-call."
+          ],
+          "url": null
+        },
+        {
+          "company": "Home Depot",
+          "title": "Senior AI Engineer, Forward Deployed",
+          "salary": "$100–180K",
+          "detail": "$100–180K. ⚠️ Production support; remote hires may need to live near an office.",
+          "flags": [
+            "Production support; remote hires may need to live near an office."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "roles": [
+        {
+          "company": "Coinbase",
+          "title": "Staff SWE, AI Developer Productivity",
+          "salary": "$218K–$256.5K",
+          "detail": "· $218K–$256.5K base · posted Nov 10. Owns agentic workflows for refactoring, test generation and bug detection, plus rules for governed agent use. Remote US, with quarterly in-person \"surges.\"",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Airbnb",
+          "title": "Senior Staff SWE, AI for Developer Productivity",
+          "salary": "$244K–$304K",
+          "detail": "· $244K–$304K base · posted about 12 days earlier. Sets AI strategy across build, test and deploy as a hands-on player/coach. US remote-eligible.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Coder",
+          "title": "Staff SWE (AI Governance)",
+          "salary": "",
+          "detail": "(HN \"Who is hiring\", November) · no comp listed. Self-hosted agentic dev environment for enterprises. Fully remote US. Details from a summary of the post; check Coder's careers page.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Helmsted",
+          "title": "Founding AI Engineer",
+          "salary": "$160K–$200K",
+          "detail": "(HN) · $160K–$200K + equity. Agents, evals, long-term memory and retrieval — directly lines up with your context/memory work. ⚠️ Remote US for now, relocation expected later. Also from a summary.",
+          "flags": [
+            "Remote US for now, relocation expected later."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Forward Deployed AI Engineer",
+          "salary": "$180K–$225K",
+          "detail": "· $180K–$225K · posted Oct 22. Tech lead for enterprise agent deployments. Remote US.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Cresta",
+          "title": "Senior Forward Deployed Engineer (AI Agent)",
+          "salary": "$185K–$235K",
+          "detail": "· $185K–$235K. Builds and deploys AI agents with enterprise integrations. Remote US. ⚠️ Some troubleshooting in customer environments, no on-call.",
+          "flags": [
+            "Some troubleshooting in customer environments, no on-call."
+          ],
+          "url": null
+        },
+        {
+          "company": "Curai",
+          "title": "Sr Software Engineer, Agentic AI",
+          "salary": "$175K–$210K",
+          "detail": "· $175K–$210K. Agent workflows and evals in healthcare. Remote US. Senior rather than staff; Python-first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Amgen",
+          "title": "Senior Forward Deployed Engineer, AI Studio",
+          "salary": "$156K–$211K",
+          "detail": "· $156K–$211K · posted Oct 13. Production retrieval and agent systems. Remote US. ⚠️ SLOs, runbooks, incident and DR work.",
+          "flags": [
+            "SLOs, runbooks, incident and DR work."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "roles": [
+        {
+          "company": "Waabi",
+          "title": "Senior/Staff Software Engineer, AI Tooling",
+          "salary": "$165k–$265k",
+          "detail": "$165k–$265k. Internal AI tooling, agents and AI coding tool rollouts. ⚠️ Listing says both \"Remote US\" and \"Hybrid\"; confirm.",
+          "flags": [
+            "Listing says both \"Remote US\" and \"Hybrid\"; confirm."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Senior Forward Deployed AI Engineer",
+          "salary": "$180k–$225k",
+          "detail": "$180k–$225k. Tech lead designing customer agent setups and taking them to production.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Grafana Labs",
+          "title": "Staff AI Engineer",
+          "salary": "$154k–$185k",
+          "detail": "US Remote, $154k–$185k plus stock. Multi-agent systems, MCP servers and evals. ⚠️ Agents run 24/7 and the role owns their ongoing operation.",
+          "flags": [
+            "Agents run 24/7 and the role owns their ongoing operation."
+          ],
+          "url": null
+        },
+        {
+          "company": "First American",
+          "title": "Staff Software Engineer, AI-Native Platform",
+          "salary": "$148.6k–$198.2k",
+          "detail": "$148.6k–$198.2k, posted Nov 6. Link was a job-board copy; check First American's own careers site.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Amgen",
+          "title": "Senior Forward Deployed Engineer, AI Studio",
+          "salary": "$156k–$211k",
+          "detail": "$156k–$211k. ⚠️ Runbooks, uptime targets and early stabilization.",
+          "flags": [
+            "Runbooks, uptime targets and early stabilization."
+          ],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130k–$150k",
+          "detail": "$130k–$150k plus equity (HN \"Who is hiring\", November).",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Thankly",
+          "title": "Founding Engineer, RL Environments",
+          "salary": "",
+          "detail": "remote US, mostly equity (HN).",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Home Depot",
+          "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+          "salary": "$100k–$180k",
+          "detail": "$100k–$180k, apply by Nov 30. ⚠️ About 20% production support; may require living near an office.",
+          "flags": [
+            "About 20% production support; may require living near an office."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "roles": [
+        {
+          "company": "The Browser Company",
+          "title": "Staff Software Engineer, Developer Experience",
+          "salary": "$265K–$290K",
+          "detail": "$265K–$290K base. Build their internal \"software factory\" (AI coding tools, CI, code review, evals). No on-call mentioned.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Mercury",
+          "title": "Senior Software Engineer, AI Engineering",
+          "salary": "$167K–$219K",
+          "detail": "$167K–$219K base. Internal AI platform: MCP servers, an LLM gateway, a knowledge layer and agent sandboxes. ⚠️ Mild ops flavor: you'd \"expand and operate\" the gateway.",
+          "flags": [
+            "Mild ops flavor: you'd \"expand and operate\" the gateway."
+          ],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "$250K–$325K base, posted Oct 30. Leads design of their agent orchestration layer. ⚠️ Explicit incident on-call rotation.",
+          "flags": [
+            "Explicit incident on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Thankly",
+          "title": "Founding Engineer",
+          "salary": "",
+          "detail": "Remote US, mostly equity, no salary listed. Shopping apps that run inside ChatGPT, Claude and Gemini.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130K–$150K",
+          "detail": "$130K–$150K plus equity, well below your level. AI agents replacing manual document review for solar project financing.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K plus equity, remote North America. Closest match: dev environments for coding agents, MCP integrations, and the context docs agents read. Posting over 60 days old but still open.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "$250K–$325K base, posted Oct 30. Strong fit with your agent orchestration work. ⚠️ On-call incident rotation.",
+          "flags": [
+            "On-call incident rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "",
+          "detail": "Very good fit, but no longer on the company's own job board; may be closed.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Steer",
+          "title": "Principal Engineer, Agentic AI",
+          "salary": "",
+          "detail": "US remote, posted Oct 31. Salary not listed, only equity.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "First American",
+          "title": "Staff Software Engineer (AI-Native Platform)",
+          "salary": "$149K–$198K",
+          "detail": "$149K–$198K, posted Nov 6. ⚠️ You'd set incident-response and resiliency patterns, though no on-call listed. Pay low for your level.",
+          "flags": [
+            "You'd set incident-response and resiliency patterns, though no on-call listed."
+          ],
+          "url": null
+        },
+        {
+          "company": "TRM Labs",
+          "title": "Staff Agent Engineer",
+          "salary": "",
+          "detail": "US Remote. Couldn't confirm still open.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BuildQ",
+          "title": "Founding Engineer",
+          "salary": "$130K–$150K",
+          "detail": "(HN post), $130K–$150K plus equity. Agents for solar-finance document review; pay well below yours.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180–400K",
+          "detail": "$180–400K, remote (North America). Closest fit: own their AI coding setup and the tools connecting it to CircleCI, Slack, Datadog and GitHub, plus internal AI rollout. The posting tells applicants to run a command against an unknown web address before applying; check it first.",
+          "flags": [],
+          "url": "https://job-boards.greenhouse.io/hightouch/jobs/6020404004"
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190–230K",
+          "detail": "$190–230K, remote (US). Own the AI rollout plan and build automation agents. Posted about a month earlier.",
+          "flags": [],
+          "url": "https://www.builtinboston.com/job/staff-ai-enablement-engineer/11080553"
+        },
+        {
+          "company": "Grafana Labs",
+          "title": "Staff AI Engineer",
+          "salary": "$154–185K",
+          "detail": "$154–185K plus stock, remote (US). Multi-agent systems for their marketing operations team. ⚠️ Mentions systems that run around the clock and production monitoring.",
+          "flags": [
+            "Mentions systems that run around the clock and production monitoring."
+          ],
+          "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004"
+        },
+        {
+          "company": "Replit",
+          "title": "Staff Software Engineer, Agent Platform",
+          "salary": "$250–365K",
+          "detail": "$250–365K. ⚠️ Unclear if fully remote (\"occasional remote\" and \"remote-first\" both appear); posted about four months earlier.",
+          "flags": [
+            "Unclear if fully remote (\"occasional remote\" and \"remote-first\" both appear); posted about four months earlier."
+          ],
+          "url": "https://www.welcometothejungle.com/en/companies/replit/jobs/staff-software-engineer_fr_gt7uewue"
+        },
+        {
+          "company": "First American",
+          "title": "Staff Software Engineer (AI-Native Platform)",
+          "salary": "$149–198K",
+          "detail": "$149–198K, remote. ⚠️ Lists incident-response duties.",
+          "flags": [
+            "Lists incident-response duties."
+          ],
+          "url": "https://www.builtinseattle.com/job/staff-software-engineer-ai-native-platform/11219216"
+        },
+        {
+          "company": "TRM Labs",
+          "title": "AI Agent Engineer",
+          "salary": "",
+          "detail": "remote (US), no pay listed. Couldn't read the full page; level and duties unconfirmed.",
+          "flags": [],
+          "url": "https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391"
+        },
+        {
+          "company": "Thankly",
+          "title": "Founding Engineer",
+          "salary": "",
+          "detail": "remote (US), paid mainly in equity. Weak fit: asks for only 3+ years.",
+          "flags": [],
+          "url": "https://thankly.ai/careers/founding-engineer"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K, remote North America. Own the agentic dev environment, MCP integrations and repo-wide agents.md. Its interview section asks you to run a curl against a Hightouch server before applying; look at that in a browser first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190K–$230K",
+          "detail": "$190K–$230K, remote anywhere in the US. Pilot AI coding assistants and build a network of automation agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "$170K–$215K, remote with up to 3 trips a year to San Jose. MCP connectors, prompt and skill libraries, and a governed knowledge layer. Posted around Sept 10.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "$250K–$350K",
+          "detail": "$250K–$350K, remote US. ⚠️ Explicitly includes on-call and incident response.",
+          "flags": [
+            "Explicitly includes on-call and incident response."
+          ],
+          "url": null
+        },
+        {
+          "company": "Aledade",
+          "title": "Staff Software Engineer, AI Platform",
+          "salary": "$176K–$238K",
+          "detail": "$176K–$238K, remote US. ⚠️ Also run the platform day to day (SLOs, alerting), though no on-call rotation listed.",
+          "flags": [
+            "Also run the platform day to day (SLOs, alerting), though no on-call rotation listed."
+          ],
+          "url": null
+        },
+        {
+          "company": "Amgen",
+          "title": "Senior Forward Deployed Engineer, AI Studio",
+          "salary": "$156K–$211K",
+          "detail": "$156K–$211K, remote US. ⚠️ Includes fixing early production issues before handoff.",
+          "flags": [
+            "Includes fixing early production issues before handoff."
+          ],
+          "url": null
+        },
+        {
+          "company": "TRM Labs",
+          "title": "Staff Agent Engineer",
+          "salary": "",
+          "detail": "Listed as US remote. Only the title was readable; duties and pay need checking.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Thankly",
+          "title": "Founding Engineer",
+          "salary": "",
+          "detail": "Remote US, paid mainly in equity (no salary listed). From the November HN \"Who is hiring\" thread.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "roles": [
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "$170K–$215K plus bonus, remote US. Internal AI stack: agents, MCP connectors, prompt and skill libraries. Very close to your Axon work.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "",
+          "detail": "Fully remote US, comp not listed. Own the AI enablement roadmap and a network of agents automating engineering and ops work.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "OhmConnect",
+          "title": "Staff Engineer, AI Developer Experience",
+          "salary": "$170K–$220K",
+          "detail": "$170K–$220K plus 15% bonus, remote US only. Developer productivity focused on AI tooling.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "ClickUp",
+          "title": "Staff AI Engineer, AI Platform",
+          "salary": "",
+          "detail": "Comp not listed; tagged remote, no country named. ⚠️ Mentions keeping AI services reliable in production.",
+          "flags": [
+            "Mentions keeping AI services reliable in production."
+          ],
+          "url": null
+        },
+        {
+          "company": "ShiftKey",
+          "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+          "salary": "",
+          "detail": "Page only partly loaded; remote status and comp unconfirmed.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Amgen",
+          "title": "Senior Forward Deployed Engineer, AI Studio",
+          "salary": "$156K–$211K",
+          "detail": "$156K–$211K, remote US. ⚠️ Duties include triage, runbooks and handling incidents.",
+          "flags": [
+            "Duties include triage, runbooks and handling incidents."
+          ],
+          "url": null
+        },
+        {
+          "company": "Cresta",
+          "title": "Forward Deployed Engineer (AI Agent)",
+          "salary": "$150K–$250K",
+          "detail": "$150K–$250K plus equity, remote. Asks for only 3+ years; level may be below yours.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Hippocratic AI",
+          "title": "Forward Deployed Engineer (Mid/Senior)",
+          "salary": "",
+          "detail": "Remote with travel. ⚠️ Own reliability of the whole system.",
+          "flags": [
+            "Own reliability of the whole system."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180k–$320k",
+          "detail": "(Greenhouse). Remote North America, $180k–$320k. Own the environment where their coding agents run, the connections to their tools (CircleCI, Slack, Datadog, GitHub) and the agent instructions file. Closest match to your current work. No on-call mentioned. Dice shows it as posted 60+ days ago; apply soon.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "ShiftKey",
+          "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+          "salary": "",
+          "detail": "(DailyRemote). US, comp not listed. Knowledge platform and agent infrastructure on AWS, close to your context/memory work. Listing about 4 months old and description paywalled; check ShiftKey's careers page directly.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Senior Forward Deployed AI Engineer",
+          "salary": "$180k–$225k",
+          "detail": "(Greenhouse). US Remote, $180k–$225k, posted Oct 22. Technical lead on complex customer deployments of their AI agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Curai",
+          "title": "Sr Software Engineer, Agentic AI",
+          "salary": "$175k–$210k",
+          "detail": "(Lever). Remote US, $175k–$210k, posted Nov 3 on HN. Agent workflows and agent-quality testing at an AI-first healthcare company.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Amgen",
+          "title": "Senior Forward Deployed Engineer, AI Studio",
+          "salary": "$156k–$211k",
+          "detail": "(Amgen careers). US Remote, $156k–$211k. ⚠️ Duties include uptime targets, runbooks and triaging production issues.",
+          "flags": [
+            "Duties include uptime targets, runbooks and triaging production issues."
+          ],
+          "url": null
+        },
+        {
+          "company": "Zed Industries",
+          "title": "Backend Engineer, Cloud",
+          "salary": "",
+          "detail": "(zed.dev). Remote (Eastern Time). Rust cloud services for an agent-centric code editor. ⚠️ Explicitly on-call with incident response.",
+          "flags": [
+            "Explicitly on-call with incident response."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "roles": [
+        {
+          "company": "Netflix",
+          "title": "Software Engineer 5, Agent Platform",
+          "salary": "",
+          "detail": "Remote US, no pay listed. Closest to your Axon work: agent runtime, developer kit, memory layer and guardrails. ⚠️ Includes running the agents in production, no on-call language. Posting dates back to around June; may be stale.",
+          "flags": [
+            "Includes running the agents in production, no on-call language."
+          ],
+          "url": null
+        },
+        {
+          "company": "Capital One",
+          "title": "Senior Staff AI Engineer, Agentic AI Platform",
+          "salary": "$286K–$327K",
+          "detail": "Open to remote hires, $286K–$327K. Builds the agent platform and sets architecture direction, using your lead and manager background. ⚠️ Includes production support; asks for 10+ years of AI/ML, a stretch on paper.",
+          "flags": [
+            "Includes production support; asks for 10+ years of AI/ML, a stretch on paper."
+          ],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "Remote US, $250K–$325K, posted Oct 30. Lead the agent orchestration layer, close to your multi-agent work. ⚠️ Requires joining the GitLab.com incident on-call rotation.",
+          "flags": [
+            "Requires joining the GitLab."
+          ],
+          "url": null
+        },
+        {
+          "company": "Atomic",
+          "title": "Founding Forward Deployed Engineer",
+          "salary": "",
+          "detail": "Remote US, posted around Oct 21, no pay listed. The only AI engineer, putting agents into customers' core systems; about 90% building, 10% managing. Involves customer-site travel. A job board labels it mid-senior, so level and pay may be below yours.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Hightouch",
+          "title": "Developer Productivity Engineer (senior)",
+          "salary": "$180K–$320K",
+          "detail": "Remote North America, $180K–$320K. Removes toil from build/deploy for 50+ engineers, but not AI-focused. ⚠️ Includes responding quickly to production issues.",
+          "flags": [
+            "Includes responding quickly to production issues."
+          ],
+          "url": null
+        },
+        {
+          "company": "ZenBusiness",
+          "title": "Senior Software Engineer, Developer Platform & AI Tooling",
+          "salary": "",
+          "detail": "Title fits well, but the listing wouldn't load; remote status, pay and level unconfirmed.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "roles": [
+        {
+          "company": "Extend",
+          "title": "Senior AI Software Engineer, Internal Enablement",
+          "salary": "$160–180K",
+          "detail": "$160–180K. MCP connectors, a shared agent skills library and agent infrastructure — very close to your current work. Pay is below your level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180–400K",
+          "detail": "$180–400K. Own the dev environment for coding agents, including MCP integrations and agents.md. Listing may be 30–60 days old; check it's still open. Asks applicants to run a curl command against their server (not run).",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Netflix",
+          "title": "Software Engineer 5, Agent Platform",
+          "salary": "",
+          "detail": "No pay listed. Core agent pieces: runtime, SDK, memory and tool interfaces. ⚠️ Asks for experience running production systems, no on-call mentioned.",
+          "flags": [
+            "Asks for experience running production systems, no on-call mentioned."
+          ],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250–325K",
+          "detail": "$250–325K base, posted Oct 30. ⚠️ On-call rotation.",
+          "flags": [
+            "On-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "",
+          "detail": "No pay listed. Posting lists San Francisco, so check remote policy. ⚠️ Some agents you'd build are meant to help with on-call and incident work.",
+          "flags": [
+            "Some agents you'd build are meant to help with on-call and incident work."
+          ],
+          "url": null
+        },
+        {
+          "company": "Cresta",
+          "title": "Senior Forward Deployed Engineer (AI Agent)",
+          "salary": "$185–235K",
+          "detail": "$185–235K plus bonus and equity. Level a bit low. ⚠️ Includes troubleshooting in customer environments.",
+          "flags": [
+            "Includes troubleshooting in customer environments."
+          ],
+          "url": null
+        },
+        {
+          "company": "11x",
+          "title": "Forward Deployed Engineer [Remote - US]",
+          "salary": "",
+          "detail": "No pay listed. Level unclear; page title says Forward Deployed Engineer while the description says Voice Agent Engineer.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "($180K–$400K, remote North America). Own the AI-assisted dev setup: environments where agents can run tests, MCP integrations and repo-wide agents.md guidance. Asks applicants to run a curl command against a Hightouch API before applying (not run).",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Airbnb",
+          "title": "Senior Staff Software Engineer, AI for Developer Productivity",
+          "salary": "$244K–$304K",
+          "detail": "($244K–$304K base, US remote with occasional office visits). Set AI strategy across build, test and deploy; hands-on but company-wide.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "($170K–$215K). Agents, MCP connectors, prompt and skill libraries, a knowledge layer — closely mirrors your Axon work. Posted around Sep 10; lower pay.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250K–$325K",
+          "detail": "($250K–$325K, posted Oct 30). Core agent orchestration work. ⚠️ Includes an incident on-call rotation.",
+          "flags": [
+            "Includes an incident on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "$250K–$350K",
+          "detail": "($250K–$350K). Build the agent runtime and SDKs. ⚠️ Also own SLOs, on-call, incident response and postmortems.",
+          "flags": [
+            "Also own SLOs, on-call, incident response and postmortems."
+          ],
+          "url": null
+        },
+        {
+          "company": "Reddit",
+          "title": "Senior Forward Deployed Engineer (AI Enablement)",
+          "salary": "$180K–$252K",
+          "detail": "($180K–$252K, posted Oct 20). Build agents that replace manual business work. Senior rather than Staff. ⚠️ Mild: expects you to own production quality.",
+          "flags": [
+            "Mild: expects you to own production quality."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Forward Deployed AI Engineer",
+          "salary": "$180K–$225K",
+          "detail": "($180K–$225K, posted Oct 22). Lead enterprise agent rollouts; customer-facing, less platform.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "roles": [
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "",
+          "detail": "(remote US, pay not listed). Owns the engineering AI-enablement roadmap, picks AI coding tools and builds automation agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GitLab",
+          "title": "Principal Engineer, Duo Agent Platform",
+          "salary": "$250–325K",
+          "detail": "(remote US, $250–325K base). Leads the design of GitLab's agent platform. ⚠️ Requires an incident on-call rotation.",
+          "flags": [
+            "Requires an incident on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Grafana Labs",
+          "title": "Staff AI Engineer",
+          "salary": "$154–185K",
+          "detail": "(remote US, $154–185K + stock). Internal agent and MCP platform automating manual marketing work. ⚠️ Mild: asks for \"ongoing operation\" but no on-call mentioned.",
+          "flags": [
+            "Mild: asks for \"ongoing operation\" but no on-call mentioned."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Senior Forward Deployed AI Engineer",
+          "salary": "$180–225K",
+          "detail": "(remote US, $180–225K, posted Oct 22). Leads customer AI-agent deployments from prototype to production.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Tailscale",
+          "title": "Software Engineer, AI Enablement",
+          "salary": "",
+          "detail": "Close match, but the listing only shows UK pay; US-remote needs checking.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Basis",
+          "title": "Staff Software Engineer, AI",
+          "salary": "$137–210K",
+          "detail": "(remote US, $137–210K). Tech lead for a multi-agent platform. ⚠️ Includes production support.",
+          "flags": [
+            "Includes production support."
+          ],
+          "url": null
+        },
+        {
+          "company": "LiveKit",
+          "title": "Forward Deployed Engineer",
+          "salary": "",
+          "detail": "(remote US). Builds voice AI agents with customers. Level not stated.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Matcha.fm",
+          "title": "Founding Software Engineer",
+          "salary": "",
+          "detail": "(fully remote). Early startup building agents that search large datasets.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "roles": [
+        {
+          "company": "Netflix",
+          "title": "Software Engineer 5, Agent Platform",
+          "salary": "",
+          "detail": "Pay not shown. Build agent runtime, SDK, memory layer and identity end to end; the closest match to your context/memory work.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K. Own the skills library, MCP integrations and agents.md. Asks applicants to run a curl command against a company server; check it's legitimate first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "OhmConnect",
+          "title": "Staff Engineer, AI Developer Experience",
+          "salary": "$170K–$220K",
+          "detail": "$170K–$220K plus 15% bonus. Leads AI-assisted development and governance of coding tools; posted Oct 15.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Mattermost",
+          "title": "Staff Full Stack Engineer",
+          "salary": "$173K–$227K",
+          "detail": "$173K–$227K. Sets company-wide standards for coding-agent workflows and owns internal tooling strategy.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Grafana Labs",
+          "title": "Staff AI Engineer",
+          "salary": "$154K–$185K",
+          "detail": "$154K–$185K. Multi-agent systems and MCP servers that automate manual sales and marketing work.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170K–$276K",
+          "detail": "$170K–$276K. AI developer tools and a self-service platform for teams' own agents. ⚠️ On-call rotation within 90 days.",
+          "flags": [
+            "On-call rotation within 90 days."
+          ],
+          "url": null
+        },
+        {
+          "company": "Cresta",
+          "title": "Senior Forward Deployed Engineer (AI Agent)",
+          "salary": "$185K–$235K",
+          "detail": "$185K–$235K. Builds and deploys AI agents for customers; customer-facing.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "YipitData",
+          "title": "Staff Software Engineer, AI",
+          "salary": "$180K–$200K",
+          "detail": "$180K–$200K. Owns an internal research agent end to end; more product than platform.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "Senior/Staff Backend Engineer, Agents",
+          "salary": "$140K–$175K",
+          "detail": "$140K–$175K, low for staff. ⚠️ Lists pager experience as desirable.",
+          "flags": [
+            "Lists pager experience as desirable."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "roles": [
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "$170K–$215K plus bonus. Internal agents, MCP connectors, shared skill and prompt libraries, and a knowledge layer on AWS with Terraform. Very close to your Axon AI work. Up to 3 trips a year to San Jose.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190K–$230K",
+          "detail": "$190K–$230K. A network of automation agents for engineering workflows, matching your theme of replacing manual work with systems. Part of the job is applied ML on clinical workflows.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K plus equity. Owns agents.md, agent skills, MCP integrations and sandboxes for unattended agent runs; nearly your Claude Code work. Posted 60+ days ago, so confirm it's still open. Apply step asks you to run a curl command against a Hightouch server; check on Hightouch's own careers page first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170K–$276K",
+          "detail": "$170K–$276K plus equity. Owns Docker's internal AI dev-tools platform. ⚠️ On-call rotation within 90 days, including evenings and weekends.",
+          "flags": [
+            "On-call rotation within 90 days, including evenings and weekends."
+          ],
+          "url": null
+        },
+        {
+          "company": "Mastra",
+          "title": "AI Engineer",
+          "salary": "",
+          "detail": "comp and level not listed. Open-source agent framework; memory features and agent evaluation, lining up with your agent memory system. May be pitched below staff.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Fredrin",
+          "title": "Forward Deployed Engineer",
+          "salary": "$150K–$250K",
+          "detail": "$150K–$250K (HN hiring post). Small founder-led startup whose app runs many coding agents in parallel.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Siemens Energy",
+          "title": "Principal AI Agent Engineer",
+          "salary": "$130K–$180K",
+          "detail": "$130K–$180K. Principal-level design of a multi-agent orchestration platform. Pay probably below your level; US export-control eligibility rules apply.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "Senior/Staff Backend Engineer",
+          "salary": "",
+          "detail": "comp not listed. Makes their CRM usable by MCP agents and adds guardrails for agent-written code. More product than platform.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "roles": [
+        {
+          "company": "Wrapbook",
+          "title": "Senior Software Engineer II, Applied AI",
+          "salary": "$183K–$283.5K",
+          "detail": "($183K–$283.5K). Builds LangGraph agents on AWS Bedrock that automate internal teams' workflows.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Juniper Square",
+          "title": "Senior Applied AI Engineer",
+          "salary": "$165K–$200K",
+          "detail": "($165K–$200K). Finds business teams' workflows and replaces them with custom agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Cresta",
+          "title": "Senior Forward Deployed Engineer (AI Agent)",
+          "salary": "$185K–$235K",
+          "detail": "($185K–$235K). Builds and deploys customer agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Sourcegraph",
+          "title": "Agent Engineer [IC4]",
+          "salary": "",
+          "detail": "(from $176K base). Senior lead for coding agents. ⚠️ You'd join the team's on-call rotation.",
+          "flags": [
+            "You'd join the team's on-call rotation."
+          ],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170K–$276K",
+          "detail": "($170K–$276K). Developer-productivity agents and an internal AI tools platform. ⚠️ Has an on-call rotation, and the listing also names SF and Seattle; check that US-remote applies.",
+          "flags": [
+            "Has an on-call rotation, and the listing also names SF and Seattle; check that US-remote applies."
+          ],
+          "url": null
+        },
+        {
+          "company": "Talkdesk",
+          "title": "Forward Deployed AI Engineer",
+          "salary": "$180K–$225K",
+          "detail": "($180K–$225K). Asks for 5–7 years, so it may be below your level.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "roles": [
+        {
+          "company": "Mattermost",
+          "title": "Staff Full Stack Engineer",
+          "salary": "",
+          "detail": "Owns org-wide AI-agent engineering standards and internal tooling strategy; the closest thing to your current work found that day.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Netflix",
+          "title": "L6 Developer Productivity role in AIMS",
+          "salary": "",
+          "detail": "",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Kraken Tech",
+          "title": "AI Foundations team",
+          "salary": "",
+          "detail": "",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "roles": [
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "$170K–$215K. Build agents, MCP connectors and skill libraries on AWS/Terraform, close to your Axon work. Posted Sep 10, so older than the others.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Grafana Labs",
+          "title": "Staff AI Engineer",
+          "salary": "$154K–$185K",
+          "detail": "$154K–$185K plus RSUs. Multi-agent systems, MCP servers and agent skills, built for internal business teams rather than engineers. ⚠️ Mild: you'd also run the systems in production.",
+          "flags": [
+            "Mild: you'd also run the systems in production."
+          ],
+          "url": null
+        },
+        {
+          "company": "PayNearMe",
+          "title": "Staff Software Engineer, Agent Architecture",
+          "salary": "$225K–$285K",
+          "detail": "$225K–$285K. A multi-tenant agent platform for payments.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Zocdoc",
+          "title": "Staff Platform Engineer, AI Enablement",
+          "salary": "$210K–$270K",
+          "detail": "$210K–$270K. Guardrails and a safe way for non-engineers to build AI tools. Listing about 57 days old. ⚠️ Mild: includes CI/CD ownership.",
+          "flags": [
+            "Mild: includes CI/CD ownership."
+          ],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "$170K–$276K",
+          "detail": "$170K–$276K. ⚠️ Requires joining an on-call rotation within 90 days.",
+          "flags": [
+            "Requires joining an on-call rotation within 90 days."
+          ],
+          "url": null
+        },
+        {
+          "company": "Arcadia",
+          "title": "Principal Software Engineer, Agent AI Platform",
+          "salary": "$250K–$350K",
+          "detail": "$250K–$350K. ⚠️ Heavy SRE flavor: includes on-call and incident response.",
+          "flags": [
+            "Heavy SRE flavor: includes on-call and incident response."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "($180K–$400K). Closest fit to your current work, though the posting is 60+ days old.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Senior Software Engineer, AI Developer Tools",
+          "salary": "",
+          "detail": "Posted around Oct 18. ⚠️ One of the tools you'd build is an incident on-call helper, but you wouldn't be on call yourself.",
+          "flags": [
+            "One of the tools you'd build is an incident on-call helper, but you wouldn't be on call yourself."
+          ],
+          "url": null
+        },
+        {
+          "company": "Coder",
+          "title": "Staff Software Engineer (AI Governance)",
+          "salary": "",
+          "detail": "Building their AI gateway and agent firewall. The posting doesn't say it's remote; needs checking.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "Senior/Staff Backend Engineer",
+          "salary": "",
+          "detail": "Remote US, including building guardrails for code written by agents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Tailscale",
+          "title": "Software Engineer, AI Enablement",
+          "salary": "",
+          "detail": "Remote USA, but labeled mid-senior, so may be below your level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Allus AI",
+          "title": "Founding AI Agent Engineer",
+          "salary": "$100K–$200K",
+          "detail": "($100K–$200K plus equity). Remote only for California or Georgia residents.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Propel Labs",
+          "title": "Staff Full-Stack Engineer, Quality & Delivery",
+          "salary": "",
+          "detail": "Remote on North America hours.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "roles": [
+        {
+          "company": "Docker",
+          "title": "Senior Software Engineer, AI Developer Tools",
+          "salary": "",
+          "detail": "Comp not listed; posted about Oct 18; remote-first, regions not stated. Build internal AI dev tools, help teams adopt Claude Code and Codex, and run a self-serve platform for teams' own agents. ⚠️ Mild: one example project is agents that help with on-call incidents.",
+          "flags": [
+            "Mild: one example project is agents that help with on-call incidents."
+          ],
+          "url": null
+        },
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "$180K–$400K plus equity; remote. Own the agent dev environment, the MCP integrations and the agents.md/skills conventions. Asks applicants to curl a Hightouch endpoint; verify through official channels first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "BetterHelp",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$170K–$215K",
+          "detail": "$170K–$215K plus bonus; remote US with about three trips a year to San Jose. Internal agents, MCP connectors, skill libraries and a governed knowledge layer, much like your context/memory system.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "",
+          "detail": "Comp not listed; remote US. Own the AI enablement roadmap and build automation agents for high-friction workflows.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Tailscale",
+          "title": "Software Engineer, AI Enablement",
+          "salary": "",
+          "detail": "Only a UK range listed (£129K–£179K); remote USA/UK; posted Oct 11. Coding-agent workflows and the internal AI roadmap. Listed as mid-senior; ask about level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GC AI",
+          "title": "Member of Technical Staff, Applied AI",
+          "salary": "$180K–$430K",
+          "detail": "(5 openings, via HN Who's Hiring). $180K–$430K plus equity; remote US/Canada. AI-native startup building LLM features and agents. The HN post says to apply to a Gmail address; check against GC AI's own careers page first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "Senior/Staff Backend Engineer",
+          "salary": "",
+          "detail": "(via HN). Comp not listed; remote US. Agent features in their CRM and guardrails for agent-written code, Python stack.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, Agentic Platform",
+          "salary": "$170K–$276K",
+          "detail": "$170K–$276K plus equity; Seattle-area candidates get priority. Agent runtime, multi-agent coordination and context management. ⚠️ Strong: 24/7 on-call with real pager duty and incident response.",
+          "flags": [
+            "Strong: 24/7 on-call with real pager duty and incident response."
+          ],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff AI Productivity Engineer",
+          "salary": "$180K–$320K",
+          "detail": "Remote, North America; $180K–$320K plus equity. Nearly your Axon AI-vanguard work: environments where agents run on their own, MCP integrations, owning agents.md and the skills library, and acting as product owner for internal agents. The application includes a curl-command screening puzzle, which wasn't run.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Panorama Education",
+          "title": "Staff Engineer, Agentic Developer Platform",
+          "salary": "$234K–$344K",
+          "detail": "Remote, US; $234K–$344K base. Own the agent framework, skill library and orchestration for internal teams. ⚠️ Mild: also owns an \"operational layer\" for logging, evals and cost tracking, but no on-call mentioned.",
+          "flags": [
+            "Mild: also owns an \"operational layer\" for logging, evals and cost tracking, but no on-call mentioned."
+          ],
+          "url": null
+        },
+        {
+          "company": "Reddit",
+          "title": "Lead Forward Deployed Engineer, AI Enablement",
+          "salary": "$194.6K–$272.4K",
+          "detail": "Remote, US; $194.6K–$272.4K plus RSUs; posted Oct 20. Build agents and automations that replace manual work in Sales, Marketing and Finance. The same team has a Senior FDE opening at $180K–$252K.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Mattermost",
+          "title": "Staff Full Stack Engineer",
+          "salary": "$173K–$227K",
+          "detail": "US, remote-first; $173K–$227K. Set org-wide standards for Claude Code and Cursor workflows and lead internal tooling strategy. May require a security clearance.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "OhmConnect",
+          "title": "Staff Engineer, AI Developer Experience",
+          "salary": "$170K–$220K",
+          "detail": "Remote, US; $170K–$220K plus 15% bonus; posted Oct 15. Govern AI dev tools across the development lifecycle. ⚠️ Mild: about half is CI/CD and devcontainer work.",
+          "flags": [
+            "Mild: about half is CI/CD and devcontainer work."
+          ],
+          "url": null
+        },
+        {
+          "company": "Fredrin",
+          "title": "Forward Deployed Engineer",
+          "salary": "$150K–$250K",
+          "detail": "Remote; $150K–$250K per their HN post. A startup running coding agents in parallel; you'd get customer repos ready for agents. Level not stated.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Mastra",
+          "title": "AI Engineer",
+          "salary": "",
+          "detail": "Remote; comp not listed. Agent memory, traces and evals in an open-source agent framework, close to your context/memory system. Check that the level is senior or above.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180–400K",
+          "detail": "$180–400K, remote North America. Closest to your Axon work: environments where agents run on their own, MCP integrations, and agent guidance files. The application asks you to run a command against an outside web address; check that's legitimate first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "CookUnity",
+          "title": "Staff AI Engineer, Agent Orchestration",
+          "salary": "$180–200K",
+          "detail": "$180–200K, US remote. Multi-agent orchestration plus AI in code review and build pipelines, on AWS. ⚠️ Includes Datadog monitoring work, but no on-call mentioned.",
+          "flags": [
+            "Includes Datadog monitoring work, but no on-call mentioned."
+          ],
+          "url": null
+        },
+        {
+          "company": "Reddit",
+          "title": "Lead Forward Deployed Engineer (AI Enablement)",
+          "salary": "$195–272K",
+          "detail": "$195–272K, remote US. Uses agents to automate internal business teams' work; lead level fits your manager and product-owner background.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Reddit",
+          "title": "Senior Forward Deployed Engineer (AI Enablement)",
+          "salary": "$180–252K",
+          "detail": "$180–252K, remote US. Same work as #3 at the IC level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Sonatype",
+          "title": "Staff Software Engineer, Agentic First",
+          "salary": "",
+          "detail": "Comp not listed, US remote. Coordinating agents and writing agent playbooks for other teams. ⚠️ Owns reliability requirements, but no on-call mentioned.",
+          "flags": [
+            "Owns reliability requirements, but no on-call mentioned."
+          ],
+          "url": null
+        },
+        {
+          "company": "Scale AI",
+          "title": "Staff Frontier Agents Engineer",
+          "salary": "$265–331K",
+          "detail": "$265–331K. Multi-agent systems with memory, close to your context/memory work. A copy on Teal from about 13 days earlier; confirm it's remote on Scale's own site.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Curai",
+          "title": "Senior Software Engineer, Agentic AI",
+          "salary": "$175–210K",
+          "detail": "$175–210K, fully remote. More applied AI than platform, and Senior rather than Staff.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "LiveKit",
+          "title": "Software Engineer, Agents",
+          "salary": "",
+          "detail": "Comp not listed, remote North America. Infrastructure for long-running agent workflows; level not stated.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "$180K–$400K",
+          "detail": "Remote (North America), $180K–$400K. It's almost exactly your Axon work: running agents autonomously in cloud dev environments, building MCP integrations, and maintaining agents.md, skills and guidance. The application asks you to run a curl command against a Hightouch endpoint; check it's legitimate before you do.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Reddit",
+          "title": "Lead Forward Deployed Engineer (AI Enablement)",
+          "salary": "$194.6K–$272.4K",
+          "detail": "Remote (US), $194.6K–$272.4K base, posted Oct 20. You'd build agents that replace manual business work and turn them into reusable platform patterns.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Talkiatry",
+          "title": "Staff AI Enablement Engineer",
+          "salary": "$190K–$230K",
+          "detail": "Remote (US), $190K–$230K, posted about four weeks earlier. You'd own the AI enablement roadmap and design a network of specialized agents on a shared architecture.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "Senior/Staff Backend Engineer, Agents",
+          "salary": "$140K–$175K",
+          "detail": "Remote (US). Real agent infrastructure in production: the agent core, evals, the MCP layer and Temporal orchestration. Pay appears to be about $140K–$175K, which is low for staff, so check it.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Tailscale",
+          "title": "Software Engineer, AI Enablement",
+          "salary": "",
+          "detail": "Remote (US/UK). Runs internal AI enablement and coding-agent workflows. Listed as mid-senior, so confirm the level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Opaxa",
+          "title": "Founding Engineer, Forward Deployed",
+          "salary": "$175K–$225K",
+          "detail": "$175K–$225K plus equity. Bay Area preferred but remote US considered. From the October HN hiring thread.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "GC AI",
+          "title": "Member of Technical Staff, Applied AI",
+          "salary": "$180K–$430K",
+          "detail": "Remote (US/Canada), $180K–$430K, five openings. Applied rather than platform work. Same HN source.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "roles": [
+        {
+          "company": "Hightouch",
+          "title": "Staff Engineer, AI Productivity",
+          "salary": "",
+          "detail": "The closest fit to your current work. Its application asks you to run a command, so check that on Hightouch's official careers page first.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Docker",
+          "title": "Staff Software Engineer, AI Developer Tools",
+          "salary": "",
+          "detail": "Posted that day.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "TRM Labs",
+          "title": "Staff Software Engineer, Agent Engineering",
+          "salary": "",
+          "detail": "Builds an agent framework with memory and context retrieval.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Capital One",
+          "title": "",
+          "salary": "",
+          "detail": "senior staff agent-platform role",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Fredrin",
+          "title": "",
+          "salary": "",
+          "detail": "forward-deployed engineer role",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "",
+          "salary": "",
+          "detail": "senior/staff backend role",
+          "flags": [],
+          "url": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "roles": [
+        {
+          "company": "Tern",
+          "title": "Staff Engineer, R&D AI Tooling",
+          "salary": "$225–250K",
+          "detail": "$225–250K plus equity, US remote. Builds agent and MCP tooling on their existing Claude Code setup.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "ShiftKey",
+          "title": "Staff AI Engineer (AI Infrastructure & Agentic Platform)",
+          "salary": "",
+          "detail": "US remote. Owns a company knowledge platform for agents, close to your context/memory system. ⚠️ Infra ownership, so check for on-call.",
+          "flags": [
+            "Infra ownership, so check for on-call."
+          ],
+          "url": null
+        },
+        {
+          "company": "Airbnb",
+          "title": "Senior Staff Software Engineer, AI for Developer Productivity",
+          "salary": "$244–304K",
+          "detail": "$244–304K, US remote allowed. Posted about 12 days ago, older than the 3-day target.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Siemens Energy",
+          "title": "Principal AI Agent Engineer",
+          "salary": "$130–180K",
+          "detail": "$130–180K, remote US. Multi-agent orchestration platform; pay is low for principal.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Amgen",
+          "title": "Senior Forward Deployed Engineer, AI Studio",
+          "salary": "$156–211K",
+          "detail": "$156–211K, remote, posted Oct 13. ⚠️ Includes getting systems production-ready and handing them to operations.",
+          "flags": [
+            "Includes getting systems production-ready and handing them to operations."
+          ],
+          "url": null
+        },
+        {
+          "company": "Cohere",
+          "title": "Forward Deployed Engineer, Agentic Platform",
+          "salary": "",
+          "detail": "US remote. The posting doesn't say the level.",
+          "flags": [],
+          "url": null
+        },
+        {
+          "company": "Close",
+          "title": "Senior/Staff Backend Engineer",
+          "salary": "",
+          "detail": "US remote, from the October Hacker News \"Who is hiring\" thread. Agent-related CRM work.",
+          "flags": [],
+          "url": null
+        }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "company": "Hightouch",
+      "title": "Staff Engineer, AI Productivity",
+      "first_seen": "2026-10-19",
+      "dates_seen": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "salary": "$180k–$400k",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6020404004",
+      "latest_detail": "$180k–$400k, remote North America. Close to your Axon AI work: MCP integrations, dev environments built for agents, agent context and enablement. ⚠️ The apply page tells you to run curl against a Hightouch host on an unusual port; check before running anything.",
+      "flags": [
+        "The apply page tells you to run curl against a Hightouch host on an unusual port; check before running anything."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 18
+    },
+    {
+      "company": "Talkiatry",
+      "title": "Staff AI Enablement Engineer",
+      "first_seen": "2026-10-20",
+      "dates_seen": [
+        "2026-10-20",
+        "2026-10-23",
+        "2026-10-28",
+        "2026-10-30",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "salary": "$190K–$230K",
+      "url": "https://www.builtinboston.com/job/staff-ai-enablement-engineer/11080553",
+      "latest_detail": "$190K–$230K, remote US. Builder role covering agent automations and adoption of AI coding assistants.",
+      "flags": [],
+      "last_seen": "2026-11-16",
+      "days_seen": 11
+    },
+    {
+      "company": "Docker",
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "first_seen": "2026-10-19",
+      "dates_seen": [
+        "2026-10-19",
+        "2026-10-25",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-11-01",
+        "2026-11-17",
+        "2026-11-19",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "salary": "$170k–$276k",
+      "url": null,
+      "latest_detail": "$170k–$276k. ⚠️ On-call rotation.",
+      "flags": [
+        "Requires joining an on-call rotation within 90 days.",
+        "Has an on-call rotation, and the listing also names SF and Seattle; check that US-remote applies.",
+        "On-call rotation within 90 days, including evenings and weekends.",
+        "On-call rotation within 90 days.",
+        "Some agents you'd build are meant to help with on-call and incident work.",
+        "Incident-response automation and \"may require\" on-call.",
+        "May include an on-call rotation.",
+        "On-call rotation (evenings and weekends) and incident-response work.",
+        "On-call rotation."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 10
+    },
+    {
+      "company": "GitLab",
+      "title": "Principal Engineer, Duo Agent Platform",
+      "first_seen": "2026-10-30",
+      "dates_seen": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-12",
+        "2026-11-15",
+        "2026-11-18"
+      ],
+      "salary": "$250K–$325K",
+      "url": null,
+      "latest_detail": "Remote US, $250K–$325K base. Lead the agent orchestration layer. ⚠️ Explicit incident on-call rotation.",
+      "flags": [
+        "Requires an incident on-call rotation.",
+        "Includes an incident on-call rotation.",
+        "On-call rotation.",
+        "Requires joining the GitLab.",
+        "On-call incident rotation.",
+        "Explicit incident on-call rotation.",
+        "Incident on-call rotation.",
+        "Explicit on-call rotation."
+      ],
+      "last_seen": "2026-11-18",
+      "days_seen": 9
+    },
+    {
+      "company": "Arcadia",
+      "title": "Principal Software Engineer, Agent AI Platform",
+      "first_seen": "2026-10-25",
+      "dates_seen": [
+        "2026-10-25",
+        "2026-10-31",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-22"
+      ],
+      "salary": "$250K–$350K",
+      "url": null,
+      "latest_detail": "comp not listed. ⚠️ On-call and incident response are stated duties.",
+      "flags": [
+        "Heavy SRE flavor: includes on-call and incident response.",
+        "Also own SLOs, on-call, incident response and postmortems.",
+        "Explicitly includes on-call and incident response.",
+        "On-call, incident response and owning service-level targets, working closely with SRE.",
+        "SLOs, on-call and incident response explicitly listed.",
+        "On-call and incident response are stated duties."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 7
+    },
+    {
+      "company": "BetterHelp",
+      "title": "Staff AI Enablement Engineer",
+      "first_seen": "2026-10-23",
+      "dates_seen": [
+        "2026-10-23",
+        "2026-10-25",
+        "2026-10-28",
+        "2026-10-31",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-16"
+      ],
+      "salary": "$170K–$215K",
+      "url": null,
+      "latest_detail": "$170K–$215K, remote US. Posted Sep 10. Internal AI stack: agents, MCP connectors, prompt and skill libraries.",
+      "flags": [],
+      "last_seen": "2026-11-16",
+      "days_seen": 7
+    },
+    {
+      "company": "BuildQ",
+      "title": "Founding Engineer",
+      "first_seen": "2026-11-07",
+      "dates_seen": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-15",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-21"
+      ],
+      "salary": "$130K–$150K",
+      "url": null,
+      "latest_detail": "($130K–$150K plus equity, remote, HN hiring thread). Agent-driven product; pay well below your level.",
+      "flags": [],
+      "last_seen": "2026-11-21",
+      "days_seen": 7
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, AI Developer Productivity",
+      "first_seen": "2026-11-11",
+      "dates_seen": [
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "salary": "$218k–$257k",
+      "url": null,
+      "latest_detail": "$218k–$257k. Agent workflows for code review and test generation. US remote with quarterly in-person meetups.",
+      "flags": [
+        "Quarterly in-person gatherings."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 7
+    },
+    {
+      "company": "Amgen",
+      "title": "Senior Forward Deployed Engineer, AI Studio",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "salary": "$156K–$211K",
+      "url": null,
+      "latest_detail": "· $156K–$211K · posted Oct 13. Production retrieval and agent systems. Remote US. ⚠️ SLOs, runbooks, incident and DR work.",
+      "flags": [
+        "Includes getting systems production-ready and handing them to operations.",
+        "Duties include uptime targets, runbooks and triaging production issues.",
+        "Duties include triage, runbooks and handling incidents.",
+        "Includes fixing early production issues before handoff.",
+        "Runbooks, uptime targets and early stabilization.",
+        "SLOs, runbooks, incident and DR work."
+      ],
+      "last_seen": "2026-11-10",
+      "days_seen": 6
+    },
+    {
+      "company": "Cresta",
+      "title": "Senior Forward Deployed Engineer (AI Agent)",
+      "first_seen": "2026-10-27",
+      "dates_seen": [
+        "2026-10-27",
+        "2026-10-29",
+        "2026-11-01",
+        "2026-11-10",
+        "2026-11-14"
+      ],
+      "salary": "$185K–$235K",
+      "url": null,
+      "latest_detail": "$185K–$235K, remote US. No on-call listed, but customer-facing and only asks for 3+ years.",
+      "flags": [
+        "Includes troubleshooting in customer environments.",
+        "Some troubleshooting in customer environments, no on-call."
+      ],
+      "last_seen": "2026-11-14",
+      "days_seen": 5
+    },
+    {
+      "company": "Grafana Labs",
+      "title": "Staff AI Engineer",
+      "first_seen": "2026-10-25",
+      "dates_seen": [
+        "2026-10-25",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-06",
+        "2026-11-09"
+      ],
+      "salary": "$154k–$185k",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004",
+      "latest_detail": "US Remote, $154k–$185k plus stock. Multi-agent systems, MCP servers and evals. ⚠️ Agents run 24/7 and the role owns their ongoing operation.",
+      "flags": [
+        "Mild: you'd also run the systems in production.",
+        "Mild: asks for \"ongoing operation\" but no on-call mentioned.",
+        "Mentions systems that run around the clock and production monitoring.",
+        "Agents run 24/7 and the role owns their ongoing operation."
+      ],
+      "last_seen": "2026-11-09",
+      "days_seen": 5
+    },
+    {
+      "company": "ShiftKey",
+      "title": "Staff AI Engineer (AI Infrastructure & Agentic Platform)",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-13",
+        "2026-11-20"
+      ],
+      "salary": "",
+      "url": "https://jobs.ashbyhq.com/shiftkey/2d49484b-f266-4250-a24c-013d8e274559",
+      "latest_detail": "A job aggregator lists it as remote. Own the platform at a company trying to become AI-native.",
+      "flags": [
+        "Infra ownership, so check for on-call."
+      ],
+      "last_seen": "2026-11-20",
+      "days_seen": 5
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Staff Software Engineer, AI for Developer Productivity",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18",
+        "2026-10-31",
+        "2026-11-13",
+        "2026-11-21"
+      ],
+      "salary": "$244K–$304K",
+      "url": null,
+      "latest_detail": "($244K–$304K, US remote with occasional office visits). Hands-on AI strategy for build, test and deploy.",
+      "flags": [],
+      "last_seen": "2026-11-21",
+      "days_seen": 4
+    },
+    {
+      "company": "Close",
+      "title": "Senior/Staff Backend Engineer",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-28"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "comp not listed. Makes their CRM usable by MCP agents and adds guardrails for agent-written code. More product than platform.",
+      "flags": [],
+      "last_seen": "2026-10-28",
+      "days_seen": 4
+    },
+    {
+      "company": "First American",
+      "title": "Staff Software Engineer (AI-Native Platform)",
+      "first_seen": "2026-11-06",
+      "dates_seen": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-09",
+        "2026-11-12"
+      ],
+      "salary": "$148.6K–$198.2K",
+      "url": "https://www.builtinseattle.com/job/staff-software-engineer-ai-native-platform/11219216",
+      "latest_detail": "$148.6K–$198.2K, posted Nov 6, remote US. Architect across teams and roll out AI-assisted development. ⚠️ Mentions defining incident-response patterns.",
+      "flags": [
+        "Lists incident-response duties.",
+        "You'd set incident-response and resiliency patterns, though no on-call listed.",
+        "Mentions defining incident-response patterns."
+      ],
+      "last_seen": "2026-11-12",
+      "days_seen": 4
+    },
+    {
+      "company": "Helmsted",
+      "title": "Founding AI Engineer",
+      "first_seen": "2026-11-10",
+      "dates_seen": [
+        "2026-11-10",
+        "2026-11-14",
+        "2026-11-17",
+        "2026-11-22"
+      ],
+      "salary": "$160k–$200k",
+      "url": null,
+      "latest_detail": "$160k–$200k plus equity, remote US.",
+      "flags": [
+        "Remote US for now, relocation expected later.",
+        "Mentions an eventual relocation."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 4
+    },
+    {
+      "company": "Netflix",
+      "title": "Software Engineer 5, Agent Platform",
+      "first_seen": "2026-10-29",
+      "dates_seen": [
+        "2026-10-29",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-12"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Remote US, no pay listed. Core agent runtime, SDK and memory, close to your context/memory system. ⚠️ Posting says \"design, build, and operate\" and dates from June; check it's still open.",
+      "flags": [
+        "Asks for experience running production systems, no on-call mentioned.",
+        "Includes running the agents in production, no on-call language.",
+        "Posting says \"design, build, and operate\" and dates from June; check it's still open."
+      ],
+      "last_seen": "2026-11-12",
+      "days_seen": 4
+    },
+    {
+      "company": "Tailscale",
+      "title": "Software Engineer, AI Enablement",
+      "first_seen": "2026-10-20",
+      "dates_seen": [
+        "2026-10-20",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-30"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Close match, but the listing only shows UK pay; US-remote needs checking.",
+      "flags": [],
+      "last_seen": "2026-10-30",
+      "days_seen": 4
+    },
+    {
+      "company": "Thankly",
+      "title": "Founding Engineer",
+      "first_seen": "2026-11-05",
+      "dates_seen": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-08",
+        "2026-11-13"
+      ],
+      "salary": "",
+      "url": "https://thankly.ai/careers/founding-engineer",
+      "latest_detail": "US remote, early-stage.",
+      "flags": [],
+      "last_seen": "2026-11-13",
+      "days_seen": 4
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Staff AI Engineer, Agentic AI Platform",
+      "first_seen": "2026-11-02",
+      "dates_seen": [
+        "2026-11-02",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "salary": "$286K–$327K",
+      "url": null,
+      "latest_detail": "Remote, $286K–$327K. Set the architecture for an enterprise agent platform. Asks for 10+ years of AI/ML.",
+      "flags": [
+        "Includes production support; asks for 10+ years of AI/ML, a stretch on paper.",
+        "Duties include \"support\" of production systems."
+      ],
+      "last_seen": "2026-11-18",
+      "days_seen": 3
+    },
+    {
+      "company": "Curai",
+      "title": "Sr Software Engineer, Agentic AI",
+      "first_seen": "2026-11-03",
+      "dates_seen": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-13"
+      ],
+      "salary": "$175K–$210K",
+      "url": null,
+      "latest_detail": "US remote, healthcare AI agents.",
+      "flags": [],
+      "last_seen": "2026-11-13",
+      "days_seen": 3
+    },
+    {
+      "company": "Jobber",
+      "title": "Principal Engineer (AI, Office of the CEO)",
+      "first_seen": "2026-11-11",
+      "dates_seen": [
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-19"
+      ],
+      "salary": "$229k–$310k",
+      "url": null,
+      "latest_detail": "Remote US, posted Nov 9. $229k–$310k plus equity, possibly in CAD. Founding engineer for their internal AI systems. Strongest fit.",
+      "flags": [],
+      "last_seen": "2026-11-19",
+      "days_seen": 3
+    },
+    {
+      "company": "Mattermost",
+      "title": "Staff Full Stack Engineer",
+      "first_seen": "2026-10-22",
+      "dates_seen": [
+        "2026-10-22",
+        "2026-10-26",
+        "2026-10-29"
+      ],
+      "salary": "$173K–$227K",
+      "url": null,
+      "latest_detail": "$173K–$227K. Sets company-wide standards for coding-agent workflows and owns internal tooling strategy.",
+      "flags": [],
+      "last_seen": "2026-10-29",
+      "days_seen": 3
+    },
+    {
+      "company": "OhmConnect",
+      "title": "Staff Engineer, AI Developer Experience",
+      "first_seen": "2026-10-22",
+      "dates_seen": [
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-04"
+      ],
+      "salary": "$170K–$220K",
+      "url": null,
+      "latest_detail": "$170K–$220K plus 15% bonus, remote US only. Developer productivity focused on AI tooling.",
+      "flags": [
+        "Mild: about half is CI/CD and devcontainer work."
+      ],
+      "last_seen": "2026-11-04",
+      "days_seen": 3
+    },
+    {
+      "company": "Reddit",
+      "title": "Lead Forward Deployed Engineer (AI Enablement)",
+      "first_seen": "2026-10-20",
+      "dates_seen": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "salary": "$194.6K–$272.4K",
+      "url": null,
+      "latest_detail": "Remote, US; $194.6K–$272.4K plus RSUs; posted Oct 20. Build agents and automations that replace manual work in Sales, Marketing and Finance. The same team has a Senior FDE opening at $180K–$252K.",
+      "flags": [],
+      "last_seen": "2026-10-22",
+      "days_seen": 3
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Forward Deployed Engineer (AI Enablement)",
+      "first_seen": "2026-10-21",
+      "dates_seen": [
+        "2026-10-21",
+        "2026-10-31",
+        "2026-11-22"
+      ],
+      "salary": "$180k–$252k",
+      "url": null,
+      "latest_detail": "$180k–$252k. Internal agents replacing manual work for business teams. ⚠️ Some production ownership; one job site lists it as a contract role.",
+      "flags": [
+        "Mild: expects you to own production quality.",
+        "Some production ownership; one job site lists it as a contract role."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 3
+    },
+    {
+      "company": "TRM Labs",
+      "title": "Staff Agent Engineer",
+      "first_seen": "2026-11-05",
+      "dates_seen": [
+        "2026-11-05",
+        "2026-11-07",
+        "2026-11-19"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "US remote, agent infrastructure. ⚠️ Mentions \"operational tooling\"; full description not readable, so check for on-call.",
+      "flags": [
+        "Mentions \"operational tooling\"; full description not readable, so check for on-call."
+      ],
+      "last_seen": "2026-11-19",
+      "days_seen": 3
+    },
+    {
+      "company": "Talkdesk",
+      "title": "Forward Deployed AI Engineer",
+      "first_seen": "2026-10-27",
+      "dates_seen": [
+        "2026-10-27",
+        "2026-10-31",
+        "2026-11-10"
+      ],
+      "salary": "$180K–$225K",
+      "url": null,
+      "latest_detail": "· $180K–$225K · posted Oct 22. Tech lead for enterprise agent deployments. Remote US.",
+      "flags": [],
+      "last_seen": "2026-11-10",
+      "days_seen": 3
+    },
+    {
+      "company": "Talkdesk",
+      "title": "Senior Forward Deployed AI Engineer",
+      "first_seen": "2026-10-30",
+      "dates_seen": [
+        "2026-10-30",
+        "2026-11-03",
+        "2026-11-09"
+      ],
+      "salary": "$180k–$225k",
+      "url": null,
+      "latest_detail": "$180k–$225k. Tech lead designing customer agent setups and taking them to production.",
+      "flags": [],
+      "last_seen": "2026-11-09",
+      "days_seen": 3
+    },
+    {
+      "company": "The Home Depot",
+      "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+      "first_seen": "2026-11-13",
+      "dates_seen": [
+        "2026-11-13",
+        "2026-11-17",
+        "2026-11-18"
+      ],
+      "salary": "$100K–$180K",
+      "url": null,
+      "latest_detail": "Remote but may require living near an office. $100K–$180K, apply by Nov 30. ⚠️ Production support and alert monitoring.",
+      "flags": [
+        "Production support and SLO monitoring.",
+        "Monitoring production SLOs and responding to alerts; may need to live near an office.",
+        "Production support and alert monitoring."
+      ],
+      "last_seen": "2026-11-18",
+      "days_seen": 3
+    },
+    {
+      "company": "Close",
+      "title": "Senior/Staff Backend Engineer, Agents",
+      "first_seen": "2026-10-20",
+      "dates_seen": [
+        "2026-10-20",
+        "2026-10-29"
+      ],
+      "salary": "$140K–$175K",
+      "url": null,
+      "latest_detail": "$140K–$175K, low for staff. ⚠️ Lists pager experience as desirable.",
+      "flags": [
+        "Lists pager experience as desirable."
+      ],
+      "last_seen": "2026-10-29",
+      "days_seen": 2
+    },
+    {
+      "company": "Curai",
+      "title": "Senior Software Engineer, Agentic AI",
+      "first_seen": "2026-10-21",
+      "dates_seen": [
+        "2026-10-21",
+        "2026-11-22"
+      ],
+      "salary": "$175k–$210k",
+      "url": null,
+      "latest_detail": "$175k–$210k, 100% remote US.",
+      "flags": [],
+      "last_seen": "2026-11-22",
+      "days_seen": 2
+    },
+    {
+      "company": "Docker",
+      "title": "Senior Software Engineer, AI Developer Tools",
+      "first_seen": "2026-10-23",
+      "dates_seen": [
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Posted around Oct 18. ⚠️ One of the tools you'd build is an incident on-call helper, but you wouldn't be on call yourself.",
+      "flags": [
+        "Mild: one example project is agents that help with on-call incidents.",
+        "One of the tools you'd build is an incident on-call helper, but you wouldn't be on call yourself."
+      ],
+      "last_seen": "2026-10-24",
+      "days_seen": 2
+    },
+    {
+      "company": "Fredrin",
+      "title": "Forward Deployed Engineer",
+      "first_seen": "2026-10-22",
+      "dates_seen": [
+        "2026-10-22",
+        "2026-10-28"
+      ],
+      "salary": "$150K–$250K",
+      "url": null,
+      "latest_detail": "$150K–$250K (HN hiring post). Small founder-led startup whose app runs many coding agents in parallel.",
+      "flags": [],
+      "last_seen": "2026-10-28",
+      "days_seen": 2
+    },
+    {
+      "company": "GC AI",
+      "title": "Member of Technical Staff, Applied AI",
+      "first_seen": "2026-10-20",
+      "dates_seen": [
+        "2026-10-20",
+        "2026-10-23"
+      ],
+      "salary": "$180K–$430K",
+      "url": null,
+      "latest_detail": "(5 openings, via HN Who's Hiring). $180K–$430K plus equity; remote US/Canada. AI-native startup building LLM features and agents. The HN post says to apply to a Gmail address; check against GC AI's own careers page first.",
+      "flags": [],
+      "last_seen": "2026-10-23",
+      "days_seen": 2
+    },
+    {
+      "company": "GitHub",
+      "title": "Staff Software Engineer, GitHub Intelligence (Copilot Agents)",
+      "first_seen": "2026-11-16",
+      "dates_seen": [
+        "2026-11-16",
+        "2026-11-20"
+      ],
+      "salary": "$140.4k–$372.3k",
+      "url": "https://www.usaremotejobs.app/job/github-staff-software-engineer-github-intelligence-copilot-agents-remote-los-angeles-ca",
+      "latest_detail": "Remote US, $140.4k–$372.3k base plus stock, posted Nov 14. Lead the context layer for Copilot agents (memory, retrieval, evals) — very close to your context/memory system for agent swarms. ⚠️ First-responder on-call.",
+      "flags": [
+        "First-responder on-call."
+      ],
+      "last_seen": "2026-11-20",
+      "days_seen": 2
+    },
+    {
+      "company": "Hightouch",
+      "title": "Staff AI Productivity Engineer",
+      "first_seen": "2026-10-22",
+      "dates_seen": [
+        "2026-10-22",
+        "2026-11-18"
+      ],
+      "salary": "$180K–$320K",
+      "url": null,
+      "latest_detail": "Remote North America, $180K–$320K. Own the agentic dev environment, MCP integrations and agents.md, and drive AI enablement — almost exactly your vanguard work. The application asks you to curl an API endpoint; look at it yourself before running anything.",
+      "flags": [],
+      "last_seen": "2026-11-18",
+      "days_seen": 2
+    },
+    {
+      "company": "Home Depot",
+      "title": "Senior AI Engineer, Forward Deployed, Agent Platform",
+      "first_seen": "2026-11-09",
+      "dates_seen": [
+        "2026-11-09",
+        "2026-11-19"
+      ],
+      "salary": "$100k–$180k",
+      "url": null,
+      "latest_detail": "$100k–$180k, closes Nov 30. Likely below your level. ⚠️ Production support and alerting.",
+      "flags": [
+        "About 20% production support; may require living near an office.",
+        "Production support and alerting."
+      ],
+      "last_seen": "2026-11-19",
+      "days_seen": 2
+    },
+    {
+      "company": "Mastra",
+      "title": "AI Engineer",
+      "first_seen": "2026-10-22",
+      "dates_seen": [
+        "2026-10-22",
+        "2026-10-28"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "comp and level not listed. Open-source agent framework; memory features and agent evaluation, lining up with your agent memory system. May be pitched below staff.",
+      "flags": [],
+      "last_seen": "2026-10-28",
+      "days_seen": 2
+    },
+    {
+      "company": "Rula",
+      "title": "Staff Forward Deployed Engineer, Applied AI",
+      "first_seen": "2026-11-12",
+      "dates_seen": [
+        "2026-11-12",
+        "2026-11-15"
+      ],
+      "salary": "$145K–$190K",
+      "url": null,
+      "latest_detail": "100% remote US. No pay range in the posting; the job site's $145K–$190K is an estimate. AI tools for internal teams.",
+      "flags": [],
+      "last_seen": "2026-11-15",
+      "days_seen": 2
+    },
+    {
+      "company": "Siemens Energy",
+      "title": "Principal AI Agent Engineer",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18",
+        "2026-10-28"
+      ],
+      "salary": "$130K–$180K",
+      "url": null,
+      "latest_detail": "$130K–$180K. Principal-level design of a multi-agent orchestration platform. Pay probably below your level; US export-control eligibility rules apply.",
+      "flags": [],
+      "last_seen": "2026-10-28",
+      "days_seen": 2
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Senior Forward Deployed AI Engineer",
+      "first_seen": "2026-11-13",
+      "dates_seen": [
+        "2026-11-13",
+        "2026-11-22"
+      ],
+      "salary": "$227.5k–$245k",
+      "url": null,
+      "latest_detail": "$227.5k–$245k, remote US. Multi-agent solutions and MCP packs, 25–50% travel.",
+      "flags": [],
+      "last_seen": "2026-11-22",
+      "days_seen": 2
+    },
+    {
+      "company": "TRM Labs",
+      "title": "Staff Software Engineer, Agent Engineering",
+      "first_seen": "2026-10-19",
+      "dates_seen": [
+        "2026-10-19",
+        "2026-11-14"
+      ],
+      "salary": "$200K–$275K",
+      "url": null,
+      "latest_detail": "About $200K–$275K, remote US. Agent framework with tools, retrieval and memory, mapping to your context/memory system. ⚠️ The application asks whether you'll take on-call, and the posting dates from March, so it may be stale.",
+      "flags": [
+        "The application asks whether you'll take on-call, and the posting dates from March, so it may be stale."
+      ],
+      "last_seen": "2026-11-14",
+      "days_seen": 2
+    },
+    {
+      "company": "Zed Industries",
+      "title": "Backend Engineer, Cloud",
+      "first_seen": "2026-11-03",
+      "dates_seen": [
+        "2026-11-03",
+        "2026-11-17"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Remote, pay not listed. AI-native code editor built around agents. Not labeled senior; leveling unclear.",
+      "flags": [
+        "Explicitly on-call with incident response."
+      ],
+      "last_seen": "2026-11-17",
+      "days_seen": 2
+    },
+    {
+      "company": "Zocdoc",
+      "title": "Staff Platform Engineer, AI Enablement",
+      "first_seen": "2026-10-25",
+      "dates_seen": [
+        "2026-10-25",
+        "2026-11-11"
+      ],
+      "salary": "$210–270K",
+      "url": null,
+      "latest_detail": "$210–270K. Open to remote, team in NYC, posting about 8 weeks old. ⚠️ Mentions on-call.",
+      "flags": [
+        "Mild: includes CI/CD ownership.",
+        "Mentions on-call."
+      ],
+      "last_seen": "2026-11-11",
+      "days_seen": 2
+    },
+    {
+      "company": "11x",
+      "title": "Forward Deployed Engineer [Remote - US]",
+      "first_seen": "2026-11-01",
+      "dates_seen": [
+        "2026-11-01"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "No pay listed. Level unclear; page title says Forward Deployed Engineer while the description says Voice Agent Engineer.",
+      "flags": [],
+      "last_seen": "2026-11-01",
+      "days_seen": 1
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Staff SWE, AI for Developer Productivity",
+      "first_seen": "2026-11-10",
+      "dates_seen": [
+        "2026-11-10"
+      ],
+      "salary": "$244K–$304K",
+      "url": null,
+      "latest_detail": "· $244K–$304K base · posted about 12 days earlier. Sets AI strategy across build, test and deploy as a hands-on player/coach. US remote-eligible.",
+      "flags": [],
+      "last_seen": "2026-11-10",
+      "days_seen": 1
+    },
+    {
+      "company": "Aledade",
+      "title": "Staff Software Engineer, AI Platform",
+      "first_seen": "2026-11-05",
+      "dates_seen": [
+        "2026-11-05"
+      ],
+      "salary": "$176K–$238K",
+      "url": null,
+      "latest_detail": "$176K–$238K, remote US. ⚠️ Also run the platform day to day (SLOs, alerting), though no on-call rotation listed.",
+      "flags": [
+        "Also run the platform day to day (SLOs, alerting), though no on-call rotation listed."
+      ],
+      "last_seen": "2026-11-05",
+      "days_seen": 1
+    },
+    {
+      "company": "Allus AI",
+      "title": "Founding AI Agent Engineer",
+      "first_seen": "2026-10-24",
+      "dates_seen": [
+        "2026-10-24"
+      ],
+      "salary": "$100K–$200K",
+      "url": null,
+      "latest_detail": "($100K–$200K plus equity). Remote only for California or Georgia residents.",
+      "flags": [],
+      "last_seen": "2026-10-24",
+      "days_seen": 1
+    },
+    {
+      "company": "Atomic",
+      "title": "Founding Forward Deployed Engineer",
+      "first_seen": "2026-11-02",
+      "dates_seen": [
+        "2026-11-02"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Remote US, posted around Oct 21, no pay listed. The only AI engineer, putting agents into customers' core systems; about 90% building, 10% managing. Involves customer-site travel. A job board labels it mid-senior, so level and pay may be below yours.",
+      "flags": [],
+      "last_seen": "2026-11-02",
+      "days_seen": 1
+    },
+    {
+      "company": "Basis",
+      "title": "Staff Software Engineer, AI",
+      "first_seen": "2026-10-30",
+      "dates_seen": [
+        "2026-10-30"
+      ],
+      "salary": "$137–210K",
+      "url": null,
+      "latest_detail": "(remote US, $137–210K). Tech lead for a multi-agent platform. ⚠️ Includes production support.",
+      "flags": [
+        "Includes production support."
+      ],
+      "last_seen": "2026-10-30",
+      "days_seen": 1
+    },
+    {
+      "company": "Capital One",
+      "title": "",
+      "first_seen": "2026-10-19",
+      "dates_seen": [
+        "2026-10-19"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "senior staff agent-platform role",
+      "flags": [],
+      "last_seen": "2026-10-19",
+      "days_seen": 1
+    },
+    {
+      "company": "ClickUp",
+      "title": "Staff AI Engineer, AI Platform",
+      "first_seen": "2026-11-04",
+      "dates_seen": [
+        "2026-11-04"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Comp not listed; tagged remote, no country named. ⚠️ Mentions keeping AI services reliable in production.",
+      "flags": [
+        "Mentions keeping AI services reliable in production."
+      ],
+      "last_seen": "2026-11-04",
+      "days_seen": 1
+    },
+    {
+      "company": "Close",
+      "title": "",
+      "first_seen": "2026-10-19",
+      "dates_seen": [
+        "2026-10-19"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "senior/staff backend role",
+      "flags": [],
+      "last_seen": "2026-10-19",
+      "days_seen": 1
+    },
+    {
+      "company": "Coder",
+      "title": "Staff Software Engineer (AI Governance)",
+      "first_seen": "2026-10-24",
+      "dates_seen": [
+        "2026-10-24"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Building their AI gateway and agent firewall. The posting doesn't say it's remote; needs checking.",
+      "flags": [],
+      "last_seen": "2026-10-24",
+      "days_seen": 1
+    },
+    {
+      "company": "Coder",
+      "title": "Staff SWE (AI Governance)",
+      "first_seen": "2026-11-10",
+      "dates_seen": [
+        "2026-11-10"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "(HN \"Who is hiring\", November) · no comp listed. Self-hosted agentic dev environment for enterprises. Fully remote US. Details from a summary of the post; check Coder's careers page.",
+      "flags": [],
+      "last_seen": "2026-11-10",
+      "days_seen": 1
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "US remote. The posting doesn't say the level.",
+      "flags": [],
+      "last_seen": "2026-10-18",
+      "days_seen": 1
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff SWE, AI Developer Productivity",
+      "first_seen": "2026-11-10",
+      "dates_seen": [
+        "2026-11-10"
+      ],
+      "salary": "$218K–$256.5K",
+      "url": null,
+      "latest_detail": "· $218K–$256.5K base · posted Nov 10. Owns agentic workflows for refactoring, test generation and bug detection, plus rules for governed agent use. Remote US, with quarterly in-person \"surges.\"",
+      "flags": [],
+      "last_seen": "2026-11-10",
+      "days_seen": 1
+    },
+    {
+      "company": "CookUnity",
+      "title": "Staff AI Engineer, Agent Orchestration",
+      "first_seen": "2026-10-21",
+      "dates_seen": [
+        "2026-10-21"
+      ],
+      "salary": "$180–200K",
+      "url": null,
+      "latest_detail": "$180–200K, US remote. Multi-agent orchestration plus AI in code review and build pipelines, on AWS. ⚠️ Includes Datadog monitoring work, but no on-call mentioned.",
+      "flags": [
+        "Includes Datadog monitoring work, but no on-call mentioned."
+      ],
+      "last_seen": "2026-10-21",
+      "days_seen": 1
+    },
+    {
+      "company": "Cresta",
+      "title": "Forward Deployed Engineer (AI Agent)",
+      "first_seen": "2026-11-04",
+      "dates_seen": [
+        "2026-11-04"
+      ],
+      "salary": "$150K–$250K",
+      "url": null,
+      "latest_detail": "$150K–$250K plus equity, remote. Asks for only 3+ years; level may be below yours.",
+      "flags": [],
+      "last_seen": "2026-11-04",
+      "days_seen": 1
+    },
+    {
+      "company": "Curai Health",
+      "title": "Senior Software Engineer, Agentic AI",
+      "first_seen": "2026-11-20",
+      "dates_seen": [
+        "2026-11-20"
+      ],
+      "salary": "$175k–$210k",
+      "url": "https://jobs.lever.co/curai/cd31b67b-d83c-466a-ac55-cfa4c2ec4237",
+      "latest_detail": "100% remote US, $175k–$210k. Applied, product-facing, a level below you.",
+      "flags": [],
+      "last_seen": "2026-11-20",
+      "days_seen": 1
+    },
+    {
+      "company": "Dave",
+      "title": "Staff AI Acceleration Engineer",
+      "first_seen": "2026-11-20",
+      "dates_seen": [
+        "2026-11-20"
+      ],
+      "salary": "",
+      "url": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc",
+      "latest_detail": "Build an internal \"AI Agent Factory\" that automates work.",
+      "flags": [],
+      "last_seen": "2026-11-20",
+      "days_seen": 1
+    },
+    {
+      "company": "Docker",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "first_seen": "2026-10-23",
+      "dates_seen": [
+        "2026-10-23"
+      ],
+      "salary": "$170K–$276K",
+      "url": null,
+      "latest_detail": "$170K–$276K plus equity; Seattle-area candidates get priority. Agent runtime, multi-agent coordination and context management. ⚠️ Strong: 24/7 on-call with real pager duty and incident response.",
+      "flags": [
+        "Strong: 24/7 on-call with real pager duty and incident response."
+      ],
+      "last_seen": "2026-10-23",
+      "days_seen": 1
+    },
+    {
+      "company": "Extend",
+      "title": "Senior AI Software Engineer, Internal Enablement",
+      "first_seen": "2026-11-01",
+      "dates_seen": [
+        "2026-11-01"
+      ],
+      "salary": "$160–180K",
+      "url": null,
+      "latest_detail": "$160–180K. MCP connectors, a shared agent skills library and agent infrastructure — very close to your current work. Pay is below your level.",
+      "flags": [],
+      "last_seen": "2026-11-01",
+      "days_seen": 1
+    },
+    {
+      "company": "Federato",
+      "title": "Staff Software Engineer, AI Systems",
+      "first_seen": "2026-11-12",
+      "dates_seen": [
+        "2026-11-12"
+      ],
+      "salary": "$215K–$250K",
+      "url": null,
+      "latest_detail": "$215K–$250K base plus options, remote US or Canada. Backend for agent orchestration, tool integration and evals.",
+      "flags": [],
+      "last_seen": "2026-11-12",
+      "days_seen": 1
+    },
+    {
+      "company": "Fredrin",
+      "title": "",
+      "first_seen": "2026-10-19",
+      "dates_seen": [
+        "2026-10-19"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "forward-deployed engineer role",
+      "flags": [],
+      "last_seen": "2026-10-19",
+      "days_seen": 1
+    },
+    {
+      "company": "GitLab",
+      "title": "Staff AI Engineer, AI Engineering",
+      "first_seen": "2026-11-17",
+      "dates_seen": [
+        "2026-11-17"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Remote US, pay not listed. Internal AI tools for Sales, Marketing and Support. No on-call listed.",
+      "flags": [],
+      "last_seen": "2026-11-17",
+      "days_seen": 1
+    },
+    {
+      "company": "Hightouch",
+      "title": "Developer Productivity Engineer (senior)",
+      "first_seen": "2026-11-02",
+      "dates_seen": [
+        "2026-11-02"
+      ],
+      "salary": "$180K–$320K",
+      "url": null,
+      "latest_detail": "Remote North America, $180K–$320K. Removes toil from build/deploy for 50+ engineers, but not AI-focused. ⚠️ Includes responding quickly to production issues.",
+      "flags": [
+        "Includes responding quickly to production issues."
+      ],
+      "last_seen": "2026-11-02",
+      "days_seen": 1
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Forward Deployed Engineer (Mid/Senior)",
+      "first_seen": "2026-11-04",
+      "dates_seen": [
+        "2026-11-04"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Remote with travel. ⚠️ Own reliability of the whole system.",
+      "flags": [
+        "Own reliability of the whole system."
+      ],
+      "last_seen": "2026-11-04",
+      "days_seen": 1
+    },
+    {
+      "company": "Home Depot",
+      "title": "Senior AI Engineer, Forward Deployed",
+      "first_seen": "2026-11-11",
+      "dates_seen": [
+        "2026-11-11"
+      ],
+      "salary": "$100–180K",
+      "url": null,
+      "latest_detail": "$100–180K. ⚠️ Production support; remote hires may need to live near an office.",
+      "flags": [
+        "Production support; remote hires may need to live near an office."
+      ],
+      "last_seen": "2026-11-11",
+      "days_seen": 1
+    },
+    {
+      "company": "Hopper",
+      "title": "Forward Deployed AI Engineer",
+      "first_seen": "2026-11-21",
+      "dates_seen": [
+        "2026-11-21"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "(remote US). Level not stated; check before applying.",
+      "flags": [],
+      "last_seen": "2026-11-21",
+      "days_seen": 1
+    },
+    {
+      "company": "Juniper Square",
+      "title": "Senior Applied AI Engineer",
+      "first_seen": "2026-10-27",
+      "dates_seen": [
+        "2026-10-27"
+      ],
+      "salary": "$165K–$200K",
+      "url": null,
+      "latest_detail": "($165K–$200K). Finds business teams' workflows and replaces them with custom agents.",
+      "flags": [],
+      "last_seen": "2026-10-27",
+      "days_seen": 1
+    },
+    {
+      "company": "Kraken Tech",
+      "title": "AI Foundations team",
+      "first_seen": "2026-10-26",
+      "dates_seen": [
+        "2026-10-26"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "",
+      "flags": [],
+      "last_seen": "2026-10-26",
+      "days_seen": 1
+    },
+    {
+      "company": "LTV.ai",
+      "title": "Staff Engineer",
+      "first_seen": "2026-11-22",
+      "dates_seen": [
+        "2026-11-22"
+      ],
+      "salary": "$195k–$245k",
+      "url": null,
+      "latest_detail": "$195k–$245k. ⚠️ Also keep a high-volume email system healthy in production.",
+      "flags": [
+        "Also keep a high-volume email system healthy in production."
+      ],
+      "last_seen": "2026-11-22",
+      "days_seen": 1
+    },
+    {
+      "company": "LiveKit",
+      "title": "Software Engineer, Agents",
+      "first_seen": "2026-10-21",
+      "dates_seen": [
+        "2026-10-21"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Comp not listed, remote North America. Infrastructure for long-running agent workflows; level not stated.",
+      "flags": [],
+      "last_seen": "2026-10-21",
+      "days_seen": 1
+    },
+    {
+      "company": "LiveKit",
+      "title": "Forward Deployed Engineer",
+      "first_seen": "2026-10-30",
+      "dates_seen": [
+        "2026-10-30"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "(remote US). Builds voice AI agents with customers. Level not stated.",
+      "flags": [],
+      "last_seen": "2026-10-30",
+      "days_seen": 1
+    },
+    {
+      "company": "Matcha.fm",
+      "title": "Founding Software Engineer",
+      "first_seen": "2026-10-30",
+      "dates_seen": [
+        "2026-10-30"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "(fully remote). Early startup building agents that search large datasets.",
+      "flags": [],
+      "last_seen": "2026-10-30",
+      "days_seen": 1
+    },
+    {
+      "company": "Mercury",
+      "title": "Senior Software Engineer, AI Engineering",
+      "first_seen": "2026-11-08",
+      "dates_seen": [
+        "2026-11-08"
+      ],
+      "salary": "$167K–$219K",
+      "url": null,
+      "latest_detail": "$167K–$219K base. Internal AI platform: MCP servers, an LLM gateway, a knowledge layer and agent sandboxes. ⚠️ Mild ops flavor: you'd \"expand and operate\" the gateway.",
+      "flags": [
+        "Mild ops flavor: you'd \"expand and operate\" the gateway."
+      ],
+      "last_seen": "2026-11-08",
+      "days_seen": 1
+    },
+    {
+      "company": "Moxie",
+      "title": "Staff AI Engineer",
+      "first_seen": "2026-11-18",
+      "dates_seen": [
+        "2026-11-18"
+      ],
+      "salary": "$97K–$170K",
+      "url": null,
+      "latest_detail": "Remote, $97K–$170K, posted Nov 16. Lead its shared AI platform and a \"Context Engine.\" Pay low for your level.",
+      "flags": [],
+      "last_seen": "2026-11-18",
+      "days_seen": 1
+    },
+    {
+      "company": "Netflix",
+      "title": "L6 Developer Productivity role in AIMS",
+      "first_seen": "2026-10-26",
+      "dates_seen": [
+        "2026-10-26"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "",
+      "flags": [],
+      "last_seen": "2026-10-26",
+      "days_seen": 1
+    },
+    {
+      "company": "Opaxa",
+      "title": "Founding Engineer, Forward Deployed",
+      "first_seen": "2026-10-20",
+      "dates_seen": [
+        "2026-10-20"
+      ],
+      "salary": "$175K–$225K",
+      "url": null,
+      "latest_detail": "$175K–$225K plus equity. Bay Area preferred but remote US considered. From the October HN hiring thread.",
+      "flags": [],
+      "last_seen": "2026-10-20",
+      "days_seen": 1
+    },
+    {
+      "company": "Panorama Education",
+      "title": "Staff Engineer, Agentic Developer Platform",
+      "first_seen": "2026-10-22",
+      "dates_seen": [
+        "2026-10-22"
+      ],
+      "salary": "$234K–$344K",
+      "url": null,
+      "latest_detail": "Remote, US; $234K–$344K base. Own the agent framework, skill library and orchestration for internal teams. ⚠️ Mild: also owns an \"operational layer\" for logging, evals and cost tracking, but no on-call mentioned.",
+      "flags": [
+        "Mild: also owns an \"operational layer\" for logging, evals and cost tracking, but no on-call mentioned."
+      ],
+      "last_seen": "2026-10-22",
+      "days_seen": 1
+    },
+    {
+      "company": "PayNearMe",
+      "title": "Staff Software Engineer, Agent Architecture",
+      "first_seen": "2026-10-25",
+      "dates_seen": [
+        "2026-10-25"
+      ],
+      "salary": "$225K–$285K",
+      "url": null,
+      "latest_detail": "$225K–$285K. A multi-tenant agent platform for payments.",
+      "flags": [],
+      "last_seen": "2026-10-25",
+      "days_seen": 1
+    },
+    {
+      "company": "Propel Labs",
+      "title": "Staff Full-Stack Engineer, Quality & Delivery",
+      "first_seen": "2026-10-24",
+      "dates_seen": [
+        "2026-10-24"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Remote on North America hours.",
+      "flags": [],
+      "last_seen": "2026-10-24",
+      "days_seen": 1
+    },
+    {
+      "company": "Remote.com",
+      "title": "Senior Forward Deployed Engineer",
+      "first_seen": "2026-11-18",
+      "dates_seen": [
+        "2026-11-18"
+      ],
+      "salary": "$53K–$216K",
+      "url": null,
+      "latest_detail": "Remote North America, $53K–$216K. ⚠️ Incident response among the duties.",
+      "flags": [
+        "Incident response among the duties."
+      ],
+      "last_seen": "2026-11-18",
+      "days_seen": 1
+    },
+    {
+      "company": "Replit",
+      "title": "Staff Software Engineer, Agent Platform",
+      "first_seen": "2026-11-06",
+      "dates_seen": [
+        "2026-11-06"
+      ],
+      "salary": "$250–365K",
+      "url": "https://www.welcometothejungle.com/en/companies/replit/jobs/staff-software-engineer_fr_gt7uewue",
+      "latest_detail": "$250–365K. ⚠️ Unclear if fully remote (\"occasional remote\" and \"remote-first\" both appear); posted about four months earlier.",
+      "flags": [
+        "Unclear if fully remote (\"occasional remote\" and \"remote-first\" both appear); posted about four months earlier."
+      ],
+      "last_seen": "2026-11-06",
+      "days_seen": 1
+    },
+    {
+      "company": "Scale AI",
+      "title": "Staff Frontier Agents Engineer",
+      "first_seen": "2026-10-21",
+      "dates_seen": [
+        "2026-10-21"
+      ],
+      "salary": "$265–331K",
+      "url": null,
+      "latest_detail": "$265–331K. Multi-agent systems with memory, close to your context/memory work. A copy on Teal from about 13 days earlier; confirm it's remote on Scale's own site.",
+      "flags": [],
+      "last_seen": "2026-10-21",
+      "days_seen": 1
+    },
+    {
+      "company": "Sonatype",
+      "title": "Staff Software Engineer, Agentic First",
+      "first_seen": "2026-10-21",
+      "dates_seen": [
+        "2026-10-21"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Comp not listed, US remote. Coordinating agents and writing agent playbooks for other teams. ⚠️ Owns reliability requirements, but no on-call mentioned.",
+      "flags": [
+        "Owns reliability requirements, but no on-call mentioned."
+      ],
+      "last_seen": "2026-10-21",
+      "days_seen": 1
+    },
+    {
+      "company": "Sourcegraph",
+      "title": "Agent Engineer [IC4]",
+      "first_seen": "2026-10-27",
+      "dates_seen": [
+        "2026-10-27"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "(from $176K base). Senior lead for coding agents. ⚠️ You'd join the team's on-call rotation.",
+      "flags": [
+        "You'd join the team's on-call rotation."
+      ],
+      "last_seen": "2026-10-27",
+      "days_seen": 1
+    },
+    {
+      "company": "Steer",
+      "title": "Principal Engineer, Agentic AI",
+      "first_seen": "2026-11-07",
+      "dates_seen": [
+        "2026-11-07"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "US remote, posted Oct 31. Salary not listed, only equity.",
+      "flags": [],
+      "last_seen": "2026-11-07",
+      "days_seen": 1
+    },
+    {
+      "company": "Supabase",
+      "title": "AI Platform Engineer",
+      "first_seen": "2026-11-18",
+      "dates_seen": [
+        "2026-11-18"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Fully remote, pay not listed, posted Nov 15. Build the runtime for internal agents, plus durable state, a review gate and evals. ⚠️ \"Own the infrastructure end to end.\"",
+      "flags": [
+        "\"Own the infrastructure end to end."
+      ],
+      "last_seen": "2026-11-18",
+      "days_seen": 1
+    },
+    {
+      "company": "Synthetic",
+      "title": "Staff/Principal Software Engineer (US Remote)",
+      "first_seen": "2026-11-17",
+      "dates_seen": [
+        "2026-11-17"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Early-stage AI and fintech startup. Page wouldn't load; pay and duties unknown.",
+      "flags": [],
+      "last_seen": "2026-11-17",
+      "days_seen": 1
+    },
+    {
+      "company": "Synthetic",
+      "title": "Staff/Principal Software Engineer",
+      "first_seen": "2026-11-19",
+      "dates_seen": [
+        "2026-11-19"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "US remote, early-stage AI + fintech startup. Only a one-line summary was readable.",
+      "flags": [],
+      "last_seen": "2026-11-19",
+      "days_seen": 1
+    },
+    {
+      "company": "TRM Labs",
+      "title": "AI Agent Engineer",
+      "first_seen": "2026-11-06",
+      "dates_seen": [
+        "2026-11-06"
+      ],
+      "salary": "",
+      "url": "https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391",
+      "latest_detail": "remote (US), no pay listed. Couldn't read the full page; level and duties unconfirmed.",
+      "flags": [],
+      "last_seen": "2026-11-06",
+      "days_seen": 1
+    },
+    {
+      "company": "TRM Labs",
+      "title": "Staff Agent Engineer (US Remote)",
+      "first_seen": "2026-11-11",
+      "dates_seen": [
+        "2026-11-11"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "No pay listed. Only a summary of the posting was readable.",
+      "flags": [],
+      "last_seen": "2026-11-11",
+      "days_seen": 1
+    },
+    {
+      "company": "Talkdesk",
+      "title": "Forward Deployed AI Engineer (senior)",
+      "first_seen": "2026-11-13",
+      "dates_seen": [
+        "2026-11-13"
+      ],
+      "salary": "$180K–$225K",
+      "url": null,
+      "latest_detail": "$180K–$225K. Technical lead on agent deployments.",
+      "flags": [],
+      "last_seen": "2026-11-13",
+      "days_seen": 1
+    },
+    {
+      "company": "Tern",
+      "title": "Staff Engineer, R&D AI Tooling",
+      "first_seen": "2026-10-18",
+      "dates_seen": [
+        "2026-10-18"
+      ],
+      "salary": "$225–250K",
+      "url": null,
+      "latest_detail": "$225–250K plus equity, US remote. Builds agent and MCP tooling on their existing Claude Code setup.",
+      "flags": [],
+      "last_seen": "2026-10-18",
+      "days_seen": 1
+    },
+    {
+      "company": "Thankly",
+      "title": "Founding Engineer, RL Environments",
+      "first_seen": "2026-11-09",
+      "dates_seen": [
+        "2026-11-09"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "remote US, mostly equity (HN).",
+      "flags": [],
+      "last_seen": "2026-11-09",
+      "days_seen": 1
+    },
+    {
+      "company": "The Browser Company",
+      "title": "Staff Software Engineer, Developer Experience",
+      "first_seen": "2026-11-08",
+      "dates_seen": [
+        "2026-11-08"
+      ],
+      "salary": "$265K–$290K",
+      "url": null,
+      "latest_detail": "$265K–$290K base. Build their internal \"software factory\" (AI coding tools, CI, code review, evals). No on-call mentioned.",
+      "flags": [],
+      "last_seen": "2026-11-08",
+      "days_seen": 1
+    },
+    {
+      "company": "Unnamed company (via Jobgether)",
+      "title": "Senior SWE, AI DevEx",
+      "first_seen": "2026-11-11",
+      "dates_seen": [
+        "2026-11-11"
+      ],
+      "salary": "$150–190K",
+      "url": null,
+      "latest_detail": "$150–190K. Fully remote. A platform for coding agents, very close to your Axon work, though level and pay are lower. ⚠️ Part of the job connects agents to incident tools.",
+      "flags": [
+        "Part of the job connects agents to incident tools."
+      ],
+      "last_seen": "2026-11-11",
+      "days_seen": 1
+    },
+    {
+      "company": "Unnamed fintech via Jobgether",
+      "title": "Staff Software Engineer, AI Developer Productivity",
+      "first_seen": "2026-11-20",
+      "dates_seen": [
+        "2026-11-20"
+      ],
+      "salary": "$218k–$256.5k",
+      "url": "https://jobs.lever.co/jobgether/b5e64d0b-a1ee-4126-9f85-6607ff7b198d",
+      "latest_detail": "Remote US with quarterly in-person sessions, $218k–$256.5k, posted Nov 10. AI agents for code review, test generation and CI/CD. No on-call mentioned. (Likely the Coinbase role.)",
+      "flags": [],
+      "last_seen": "2026-11-20",
+      "days_seen": 1
+    },
+    {
+      "company": "Upwork",
+      "title": "Principal Software Engineer, AI Native Experiences",
+      "first_seen": "2026-11-16",
+      "dates_seen": [
+        "2026-11-16"
+      ],
+      "salary": "$195K–$345K",
+      "url": null,
+      "latest_detail": "$195K–$345K base, remote US. Weaker: leans product/full-stack rather than platform.",
+      "flags": [],
+      "last_seen": "2026-11-16",
+      "days_seen": 1
+    },
+    {
+      "company": "Waabi",
+      "title": "Senior/Staff Software Engineer, AI Tooling",
+      "first_seen": "2026-11-09",
+      "dates_seen": [
+        "2026-11-09"
+      ],
+      "salary": "$165k–$265k",
+      "url": null,
+      "latest_detail": "$165k–$265k. Internal AI tooling, agents and AI coding tool rollouts. ⚠️ Listing says both \"Remote US\" and \"Hybrid\"; confirm.",
+      "flags": [
+        "Listing says both \"Remote US\" and \"Hybrid\"; confirm."
+      ],
+      "last_seen": "2026-11-09",
+      "days_seen": 1
+    },
+    {
+      "company": "Wrapbook",
+      "title": "Senior Software Engineer II, Applied AI",
+      "first_seen": "2026-10-27",
+      "dates_seen": [
+        "2026-10-27"
+      ],
+      "salary": "$183K–$283.5K",
+      "url": null,
+      "latest_detail": "($183K–$283.5K). Builds LangGraph agents on AWS Bedrock that automate internal teams' workflows.",
+      "flags": [],
+      "last_seen": "2026-10-27",
+      "days_seen": 1
+    },
+    {
+      "company": "YipitData",
+      "title": "Staff Software Engineer, AI",
+      "first_seen": "2026-10-29",
+      "dates_seen": [
+        "2026-10-29"
+      ],
+      "salary": "$180K–$200K",
+      "url": null,
+      "latest_detail": "$180K–$200K. Owns an internal research agent end to end; more product than platform.",
+      "flags": [],
+      "last_seen": "2026-10-29",
+      "days_seen": 1
+    },
+    {
+      "company": "ZenBusiness",
+      "title": "Senior Software Engineer, Developer Platform & AI Tooling",
+      "first_seen": "2026-11-02",
+      "dates_seen": [
+        "2026-11-02"
+      ],
+      "salary": "",
+      "url": null,
+      "latest_detail": "Title fits well, but the listing wouldn't load; remote status, pay and level unconfirmed.",
+      "flags": [],
+      "last_seen": "2026-11-02",
+      "days_seen": 1
+    },
+    {
+      "company": "brightwheel",
+      "title": "Principal AI Software Engineer, Platform",
+      "first_seen": "2026-11-20",
+      "dates_seen": [
+        "2026-11-20"
+      ],
+      "salary": "",
+      "url": "https://jobs.ashbyhq.com/brightwheel/7ef0532b-77fd-4f79-a6d5-360cc4273f41",
+      "latest_detail": "Company distributed across US time zones; Principal-level AI platform job.",
+      "flags": [],
+      "last_seen": "2026-11-20",
+      "days_seen": 1
+    }
+  ]
+}
