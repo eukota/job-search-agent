@@ -843,5 +843,58 @@
     "why": "Appeared in 1 daily-digest mentions (Oct 18-Nov 22). Token verified against the public greenhouse API (2 postings).",
     "added": "2026-11-22",
     "added_by": "claude-session"
+  },
+  {
+    "name": "Capital One",
+    "ats_type": "workday",
+    "board_token": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/capital_one/jobs",
+    "careers_url": "https://capitalone.wd12.myworkdayjobs.com/capital_one",
+    "tier": "B",
+    "ai_native": false,
+    "remote_policy": "See daily digest history",
+    "pay_signal": "See daily digest history",
+    "why": "Senior Staff AI Engineer, Agentic AI Platform seen in 4 daily-digest mentions. Workday API verified (1,098 postings match 'AI').",
+    "added": "2026-11-22",
+    "added_by": "claude-session"
+  },
+  {
+    "name": "Amgen",
+    "ats_type": "workday",
+    "board_token": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/Careers/jobs",
+    "careers_url": "https://amgen.wd1.myworkdayjobs.com/Careers",
+    "tier": "B",
+    "ai_native": false,
+    "remote_policy": "See daily digest history",
+    "pay_signal": "See daily digest history",
+    "why": "Senior Forward Deployed Engineer, AI Studio seen in 6 daily-digest mentions. Workday API verified. Duties include SLOs and runbooks.",
+    "added": "2026-11-22",
+    "added_by": "claude-session"
+  },
+  {
+    "name": "The Home Depot",
+    "ats_type": "workday",
+    "board_token": "https://homedepot.wd5.myworkdayjobs.com/wday/cxs/homedepot/CareerDepot/jobs",
+    "careers_url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepot",
+    "tier": "B",
+    "ai_native": false,
+    "remote_policy": "See daily digest history",
+    "pay_signal": "See daily digest history",
+    "why": "Senior AI Engineer, Forward Deployed, Agent Platform seen in 6 daily-digest mentions ($100k-$180k, below target). Workday API verified.",
+    "added": "2026-11-22",
+    "added_by": "claude-session"
+  },
+  {
+    "name": "Netflix",
+    "ats_type": "eightfold",
+    "board_token": "explore.jobs.netflix.net",
+    "careers_url": "https://explore.jobs.netflix.net/careers",
+    "tier": "B",
+    "ai_native": false,
+    "remote_policy": "See daily digest history",
+    "pay_signal": "See daily digest history",
+    "why": "Software Engineer 5, Agent Platform seen in 5 daily-digest mentions. Eightfold API verified (public, rate-limited: returned 429 after many rapid calls).",
+    "added": "2026-11-22",
+    "added_by": "claude-session",
+    "domain": "netflix.com"
   }
 ]

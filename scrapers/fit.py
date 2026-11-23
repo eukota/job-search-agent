@@ -137,6 +137,10 @@ def score_job(job: dict, company: dict = None) -> dict:
         return None
 
     level_pts = max([pts for k, pts in SENIOR_OK.items() if k in padded] or [0])
+    # numeric levels like "Software Engineer 5" / "Engineering 6" (Netflix style)
+    num = re.search(r"\b(?:engineer|engineering|developer)\s*(\d)\b", title)
+    if num and int(num.group(1)) >= 5:
+        level_pts = max(level_pts, 25)
     if level_pts == 0:
         return None  # untitled-level roles are usually mid; the Claude run can still add them as picks
 
