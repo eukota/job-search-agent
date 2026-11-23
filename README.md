@@ -17,7 +17,7 @@ A push that changes `data/picks.json` or `data/companies.json` re-runs the Actio
 
 - `data/companies.json`: the company radar. One entry per company: `name`, `ats_type` (`greenhouse` / `ashby` / `lever` / `none`), `board_token`, `careers_url`, `tier` (A = top pay + remote in lane, B = strong on one), `ai_native`, `remote_policy`, `pay_signal`, `why`, `added`, `added_by`. Companies with `ats_type: none` are shown on the radar but not scraped.
 - `data/picks.json`: `{updated, picks: [{rank, company, title, url, salary, location, why, ops_flag, ops_note, found_date}], company_notes: [{name, note}]}`.
-- `data/digest_history.json`: roles from nine earlier daily-digest runs (undated). Reference only; `main.py` does not read it.
+- `data/digest_history.json`: 36 daily runs of the Claude desktop task (Oct 18-Nov 22, parsed from `docs/ai-job-search-all-results.md`). Reference only; `main.py` does not read it.
 - `scrapers/fit.py`: the keyword fit rules (lanes, exclusions, remote-US check, pay parsing, on-call flag). Tune it here.
 
 ## Run locally
