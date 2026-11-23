@@ -1,26 +1,31 @@
 {
-  "note": "Roles from 9 undated daily-digest runs of the Claude desktop task. Pay, location and flags are as the digests reported them and were not re-verified. url is set only where the same posting appeared in a board scan. Not read by main.py.",
-  "digests": 9,
+  "note": "Roles from 21 undated daily-digest runs of the Claude desktop task, numbered in the order pasted. Pay, location and flags are as the digests reported them and were not re-verified. url is set only where a digest gave a link or the same posting appeared in a board scan. Not read by main.py.",
+  "digests": 21,
   "roles": [
     {
       "company": "Hightouch",
       "title": "Staff Engineer, AI Productivity",
       "salary": "$180k–$400k",
       "location": "Remote (North America)",
-      "why": "Closest match to Axon AI work: MCP integrations, agent dev environments, agent context.",
+      "why": "Closest match to Axon AI work: MCP integrations, agent dev environments, agent context. Pay appears as $180k–$320k and $180k–$400k in different digests. Dice shows 60+ days old.",
       "flags": [
         "Apply page tells applicants to run curl against a Hightouch host: do not run it, use the normal application form"
       ],
-      "digests_seen_in": 6,
+      "digests_seen_in": 11,
       "digest_numbers": [
         1,
         2,
         4,
         6,
         7,
-        8
+        8,
+        15,
+        16,
+        17,
+        19,
+        21
       ],
-      "url": null,
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6020404004",
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
@@ -32,13 +37,16 @@
       "flags": [
         "Quarterly in-person meetups"
       ],
-      "digests_seen_in": 5,
+      "digests_seen_in": 8,
       "digest_numbers": [
         1,
         2,
         7,
         8,
-        9
+        9,
+        10,
+        11,
+        12
       ],
       "url": "https://www.coinbase.com/careers/positions/8366842?gh_jid=8366842",
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -50,33 +58,85 @@
       "location": "Remote",
       "why": "Agent-driven product (solar-financing document review); seed stage. Pay well below target.",
       "flags": [],
-      "digests_seen_in": 4,
+      "digests_seen_in": 7,
       "digest_numbers": [
         2,
         4,
         5,
-        7
+        7,
+        13,
+        14,
+        15
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Docker",
-      "title": "Staff Software Engineer, AI Developer Tools",
-      "salary": "$170k–$276k",
-      "location": "Remote",
-      "why": "Self-service AI tools platform. Posted about Nov 17.",
+      "company": "GitLab",
+      "title": "Principal Engineer, Duo Agent Platform",
+      "salary": "$250k–$325k",
+      "location": "Remote US",
+      "why": "Leads the agent orchestration layer.",
       "flags": [
-        "On-call rotation (evenings/weekends) and incident-response work"
+        "On-call rotation for incidents",
+        "One digest reports it expired"
       ],
-      "digests_seen_in": 4,
+      "digests_seen_in": 7,
       "digest_numbers": [
-        1,
-        2,
-        3,
-        5
+        4,
+        7,
+        10,
+        14,
+        15,
+        20,
+        21
       ],
-      "url": "https://jobs.ashbyhq.com/docker/87bda848-01ed-4641-beaa-829373d0ed56",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8786095002",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Talkiatry",
+      "title": "Staff AI Enablement Engineer",
+      "salary": "$190k–$230k",
+      "location": "Remote US",
+      "why": "Leads agent adoption and builds automation agents.",
+      "flags": [
+        "Posted about a month ago; one digest says it may be closed"
+      ],
+      "digests_seen_in": 7,
+      "digest_numbers": [
+        6,
+        7,
+        8,
+        15,
+        16,
+        17,
+        18
+      ],
+      "url": "https://www.builtinboston.com/job/staff-ai-enablement-engineer/11080553",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "TRM Labs",
+      "title": "Staff Agent Engineer",
+      "salary": "about $200k–$275k (one digest)",
+      "location": "US remote",
+      "why": "Agent framework with tools, retrieval and memory.",
+      "flags": [
+        "Mentions operational tooling; asks about on-call",
+        "One digest says the posting dates from March and may be stale",
+        "Link given is the 'AI Agent Engineer' posting on Ashby; the Staff title was also seen. Not confirmed open"
+      ],
+      "digests_seen_in": 6,
+      "digest_numbers": [
+        3,
+        8,
+        11,
+        15,
+        16,
+        17
+      ],
+      "url": "https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391",
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
@@ -89,12 +149,35 @@
         "Production support, SLO monitoring and alerts",
         "Likely below target level"
       ],
-      "digests_seen_in": 4,
+      "digests_seen_in": 6,
       "digest_numbers": [
         3,
         4,
         5,
-        9
+        9,
+        11,
+        13
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Amgen",
+      "title": "Senior Forward Deployed Engineer, AI Studio",
+      "salary": "$156k–$211k",
+      "location": "Remote US",
+      "why": "Production retrieval and agent systems.",
+      "flags": [
+        "SLOs, runbooks, incident and disaster-recovery work",
+        "Posted Oct 13"
+      ],
+      "digests_seen_in": 5,
+      "digest_numbers": [
+        12,
+        13,
+        17,
+        18,
+        19
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -102,19 +185,121 @@
     {
       "company": "Arcadia",
       "title": "Principal Software Engineer, Agent AI Platform",
-      "salary": "",
+      "salary": "$250k–$350k",
       "location": "Remote-first US",
       "why": "Agent AI platform.",
       "flags": [
         "On-call, SLOs and incident response are stated duties"
       ],
-      "digests_seen_in": 3,
+      "digests_seen_in": 5,
       "digest_numbers": [
         1,
         3,
-        6
+        6,
+        10,
+        17
       ],
       "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Docker",
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "salary": "$170k–$276k",
+      "location": "Remote",
+      "why": "Self-service AI tools platform. Posted about Nov 17.",
+      "flags": [
+        "On-call rotation (evenings/weekends) and incident-response work",
+        "Posting lists San Francisco; remote policy needs checking"
+      ],
+      "digests_seen_in": 5,
+      "digest_numbers": [
+        1,
+        2,
+        3,
+        5,
+        21
+      ],
+      "url": "https://jobs.ashbyhq.com/docker/87bda848-01ed-4641-beaa-829373d0ed56",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Thankly",
+      "title": "Founding Engineer",
+      "salary": "",
+      "location": "US remote",
+      "why": "Early-stage.",
+      "flags": [
+        "Mostly equity, no salary; weak fit (asks 3+ years); another digest describes it as RL Environments"
+      ],
+      "digests_seen_in": 5,
+      "digest_numbers": [
+        9,
+        13,
+        14,
+        16,
+        17
+      ],
+      "url": "https://thankly.ai/careers/founding-engineer",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Cresta",
+      "title": "Senior Forward Deployed Engineer (AI Agent)",
+      "salary": "$185k–$235k",
+      "location": "Remote US",
+      "why": "",
+      "flags": [
+        "Customer-facing; asks only 3+ years, may be below level",
+        "Another digest lists 'Forward Deployed Engineer (AI Agent)' at $150k-$250k + equity"
+      ],
+      "digests_seen_in": 4,
+      "digest_numbers": [
+        8,
+        12,
+        18,
+        21
+      ],
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/4759347008",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Curai Health",
+      "title": "Senior Software Engineer, Agentic AI",
+      "salary": "$175k–$210k",
+      "location": "100% remote US",
+      "why": "Healthcare agent systems; a level below target.",
+      "flags": [
+        "Posted on HN"
+      ],
+      "digests_seen_in": 4,
+      "digest_numbers": [
+        1,
+        9,
+        12,
+        19
+      ],
+      "url": "https://jobs.lever.co/curai/cd31b67b-d83c-466a-ac55-cfa4c2ec4237",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "First American",
+      "title": "Staff Software Engineer, AI-Native Platform",
+      "salary": "$148.6k–$198.2k",
+      "location": "Remote US",
+      "why": "Architects across teams and rolls out AI-assisted development. Posted Nov 6.",
+      "flags": [
+        "Defines incident-response patterns",
+        "Links were job-board copies; check First American's own site"
+      ],
+      "digests_seen_in": 4,
+      "digest_numbers": [
+        10,
+        13,
+        15,
+        16
+      ],
+      "url": "https://www.builtinseattle.com/job/staff-software-engineer-ai-native-platform/11219216",
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
@@ -127,27 +312,31 @@
         "Eventual relocation mentioned",
         "Wealth-advisor product, lower cash"
       ],
-      "digests_seen_in": 3,
+      "digests_seen_in": 4,
       "digest_numbers": [
         1,
         5,
-        8
+        8,
+        12
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Talkiatry",
-      "title": "Staff AI Enablement Engineer",
-      "salary": "$190k–$230k",
-      "location": "Remote US",
-      "why": "Leads agent adoption and builds automation agents.",
-      "flags": [],
-      "digests_seen_in": 3,
+      "company": "Talkdesk",
+      "title": "Forward Deployed AI Engineer",
+      "salary": "$180k–$225k",
+      "location": "",
+      "why": "Technical lead on agent deployments.",
+      "flags": [
+        "Posted Oct 22"
+      ],
+      "digests_seen_in": 4,
       "digest_numbers": [
-        6,
-        7,
-        8
+        9,
+        12,
+        13,
+        19
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -161,45 +350,47 @@
       "flags": [
         "Occasional office visits"
       ],
-      "digests_seen_in": 2,
+      "digests_seen_in": 3,
       "digest_numbers": [
         2,
-        9
+        9,
+        12
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Curai Health",
-      "title": "Senior Software Engineer, Agentic AI",
-      "salary": "$175k–$210k",
-      "location": "100% remote US",
-      "why": "Healthcare agent systems; a level below target.",
+      "company": "BetterHelp",
+      "title": "Staff AI Enablement Engineer",
+      "salary": "$170k–$215k",
+      "location": "Remote US",
+      "why": "Builds internal AI stack: agents, MCP connectors, prompt/skill libraries. Posted Sep 10.",
       "flags": [],
-      "digests_seen_in": 2,
+      "digests_seen_in": 3,
       "digest_numbers": [
-        1,
-        9
+        6,
+        17,
+        18
       ],
-      "url": "https://jobs.lever.co/curai/cd31b67b-d83c-466a-ac55-cfa4c2ec4237",
+      "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "GitLab",
-      "title": "Principal Engineer, Duo Agent Platform",
-      "salary": "$250k–$325k",
-      "location": "Remote US",
-      "why": "Leads the agent orchestration layer.",
+      "company": "Capital One",
+      "title": "Senior Staff AI Engineer, Agentic AI Platform",
+      "salary": "$286k–$327k",
+      "location": "Remote",
+      "why": "Sets architecture for an enterprise agent platform.",
       "flags": [
-        "On-call rotation for incidents",
-        "One digest reports it expired"
+        "Asks for 10+ years of AI/ML experience"
       ],
-      "digests_seen_in": 2,
+      "digests_seen_in": 3,
       "digest_numbers": [
         4,
-        7
+        11,
+        20
       ],
-      "url": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/san-francisco--ca/senior-staff-ai-engineer---agentic-ai-platform--remote-eligible-_r1002274-1",
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
@@ -211,10 +402,83 @@
       "flags": [
         "Pay may be in Canadian dollars"
       ],
-      "digests_seen_in": 2,
+      "digests_seen_in": 3,
       "digest_numbers": [
         3,
-        6
+        6,
+        11
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Netflix",
+      "title": "Software Engineer 5, Agent Platform",
+      "salary": "",
+      "location": "Remote US",
+      "why": "Core agent runtime, SDK and memory.",
+      "flags": [
+        "Says 'design, build, and operate'",
+        "Posting dates from June; may be closed",
+        "Runs agents in production, no on-call language"
+      ],
+      "digests_seen_in": 3,
+      "digest_numbers": [
+        10,
+        20,
+        21
+      ],
+      "url": "https://explore.jobs.netflix.net/careers/job/790316292023-software-engineer-5-%E2%80%93-agent-platform-ai-platform-remote-united-states?domain=netflix.com&microsite=netflix.com",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "ShiftKey",
+      "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+      "salary": "",
+      "location": "",
+      "why": "AI infrastructure on AWS plus reference agent builds.",
+      "flags": [
+        "Listing may be about 4 months old and closed"
+      ],
+      "digests_seen_in": 3,
+      "digest_numbers": [
+        9,
+        18,
+        19
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Grafana Labs",
+      "title": "Staff AI Engineer",
+      "salary": "$154k–$185k + stock",
+      "location": "US remote (another digest says Canada-only)",
+      "why": "Multi-agent systems, MCP servers and evals.",
+      "flags": [
+        "Agents run 24/7 and the role owns ongoing operation"
+      ],
+      "digests_seen_in": 2,
+      "digest_numbers": [
+        13,
+        16
+      ],
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Rula",
+      "title": "Staff Forward Deployed Engineer, Applied AI",
+      "salary": "",
+      "location": "100% remote US",
+      "why": "Builds AI tools for internal teams.",
+      "flags": [
+        "No posted range (a job-site estimate of $145k-$190k is unverified)"
+      ],
+      "digests_seen_in": 2,
+      "digest_numbers": [
+        7,
+        10
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -254,65 +518,130 @@
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "TRM Labs",
-      "title": "Staff Agent Engineer",
-      "salary": "about $200k–$275k (one digest)",
-      "location": "US remote",
-      "why": "Agent framework with tools, retrieval and memory.",
+      "company": "Zed Industries",
+      "title": "Backend Engineer, Cloud",
+      "salary": "",
+      "location": "Remote",
+      "why": "AI-native code editor built around agents.",
       "flags": [
-        "Mentions operational tooling; asks about on-call",
-        "One digest says the posting dates from March and may be stale"
+        "Title not labeled senior; level unclear"
       ],
       "digests_seen_in": 2,
       "digest_numbers": [
-        3,
-        8
+        5,
+        19
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "BetterHelp",
-      "title": "Staff AI Enablement Engineer",
-      "salary": "$170k–$215k",
-      "location": "Remote US",
-      "why": "Builds internal AI stack: agents, MCP connectors, prompt/skill libraries. Posted Sep 10.",
-      "flags": [],
-      "digests_seen_in": 1,
-      "digest_numbers": [
-        6
-      ],
-      "url": null,
-      "source": "daily AI job search digests (undated, pasted by user)"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Staff AI Engineer, Agentic AI Platform",
-      "salary": "$286k–$327k",
-      "location": "Remote",
-      "why": "Sets architecture for an enterprise agent platform.",
-      "flags": [
-        "Asks for 10+ years of AI/ML experience"
-      ],
-      "digests_seen_in": 1,
-      "digest_numbers": [
-        4
-      ],
-      "url": null,
-      "source": "daily AI job search digests (undated, pasted by user)"
-    },
-    {
-      "company": "Cresta",
-      "title": "Senior Forward Deployed Engineer (AI Agent)",
-      "salary": "$185k–$235k",
+      "company": "11x",
+      "title": "Forward Deployed Engineer",
+      "salary": "",
       "location": "Remote US",
       "why": "",
       "flags": [
-        "Customer-facing; asks only 3+ years, may be below level"
+        "Level unclear; page title says FDE, description says Voice Agent Engineer"
       ],
       "digests_seen_in": 1,
       "digest_numbers": [
-        8
+        21
+      ],
+      "url": "https://jobs.gem.com/11x-ai/am9icG9zdDrE3s-7KSqyy2t3exE2ALuL",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Aledade",
+      "title": "Staff Software Engineer, AI Platform",
+      "salary": "$176k–$238k",
+      "location": "Remote US",
+      "why": "",
+      "flags": [
+        "Runs the platform day to day (SLOs, alerting); no on-call rotation listed"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        17
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Atomic",
+      "title": "Founding Forward Deployed Engineer",
+      "salary": "",
+      "location": "Remote US",
+      "why": "Only AI engineer, putting agents into customers' core systems; about 90% building.",
+      "flags": [
+        "Customer-site travel",
+        "A job board labels it mid-senior; level and pay may be below target",
+        "Posted around Oct 21"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        20
+      ],
+      "url": "https://jobs.ashbyhq.com/atomic/b2bfa182-5a40-4545-9e03-980ededc979e",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "ClickUp",
+      "title": "Staff AI Engineer, AI Platform",
+      "salary": "",
+      "location": "Tagged remote, country not named",
+      "why": "",
+      "flags": [
+        "Mentions keeping AI services reliable in production"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        18
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Coder",
+      "title": "Staff SWE (AI Governance)",
+      "salary": "",
+      "location": "Fully remote US",
+      "why": "Self-hosted agentic dev environment for enterprises.",
+      "flags": [
+        "Details from a summary of the HN post; check Coder's careers page"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        12
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Extend",
+      "title": "Senior AI Software Engineer, Internal Enablement",
+      "salary": "$160k–$180k",
+      "location": "Remote US",
+      "why": "MCP connectors, shared agent skills library and agent infrastructure.",
+      "flags": [
+        "Pay below target level"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        21
+      ],
+      "url": "https://job-boards.greenhouse.io/extend/jobs/5989772004",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Federato",
+      "title": "Staff Software Engineer, AI Systems",
+      "salary": "$215k–$250k + options",
+      "location": "Remote US or Canada",
+      "why": "Backend for agent orchestration, tool integration and evals.",
+      "flags": [],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        10
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -343,6 +672,38 @@
       "digests_seen_in": 1,
       "digest_numbers": [
         5
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Hightouch",
+      "title": "Developer Productivity Engineer (senior)",
+      "salary": "$180k–$320k",
+      "location": "Remote North America",
+      "why": "Removes toil from the build and deploy pipeline for 50+ engineers; not AI-focused.",
+      "flags": [
+        "Responding quickly to production issues"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        20
+      ],
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5701750004",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Forward Deployed Engineer (Mid/Senior)",
+      "salary": "",
+      "location": "Remote with travel",
+      "why": "",
+      "flags": [
+        "Owns reliability of the whole system"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        18
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -380,6 +741,22 @@
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
+      "company": "Mercury",
+      "title": "Senior Software Engineer, AI Engineering",
+      "salary": "$167k–$219k base",
+      "location": "Remote",
+      "why": "Internal AI platform: MCP servers, LLM gateway, knowledge layer, agent sandboxes.",
+      "flags": [
+        "Mild ops flavor: 'expand and operate' the gateway"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        14
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
       "company": "Moxie",
       "title": "Staff AI Engineer",
       "salary": "$97k–$170k",
@@ -391,6 +768,20 @@
       "digests_seen_in": 1,
       "digest_numbers": [
         4
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "OhmConnect",
+      "title": "Staff Engineer, AI Developer Experience",
+      "salary": "$170k–$220k + 15% bonus",
+      "location": "Remote, US only",
+      "why": "Developer productivity work focused on AI tooling.",
+      "flags": [],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        18
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -430,33 +821,32 @@
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Rula",
-      "title": "Staff Forward Deployed Engineer, Applied AI",
-      "salary": "",
-      "location": "100% remote US",
-      "why": "Builds AI tools for internal teams.",
+      "company": "Replit",
+      "title": "Staff Software Engineer, Agent Platform",
+      "salary": "$250k–$365k",
+      "location": "Unclear (listing says both occasional remote and remote-first)",
+      "why": "",
       "flags": [
-        "No posted range (a job-site estimate of $145k-$190k is unverified)"
+        "Posted about four months ago",
+        "Other digests exclude it as hybrid or unconfirmed"
       ],
       "digests_seen_in": 1,
       "digest_numbers": [
-        7
+        16
       ],
-      "url": null,
+      "url": "https://www.welcometothejungle.com/en/companies/replit/jobs/staff-software-engineer_fr_gt7uewue",
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "ShiftKey",
-      "title": "Staff AI Engineer, AI Infrastructure & Agentic Platform",
+      "company": "Steer",
+      "title": "Principal Engineer, Agentic AI",
       "salary": "",
       "location": "",
-      "why": "AI infrastructure on AWS plus reference agent builds.",
-      "flags": [
-        "Listing may be about 4 months old and closed"
-      ],
+      "why": "",
+      "flags": [],
       "digests_seen_in": 1,
       "digest_numbers": [
-        9
+        15
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -478,29 +868,32 @@
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Talkdesk",
-      "title": "Forward Deployed AI Engineer",
-      "salary": "$180k–$225k",
-      "location": "",
-      "why": "Technical lead on agent deployments.",
+      "company": "The Browser Company",
+      "title": "Staff Software Engineer, Developer Experience",
+      "salary": "$265k–$290k base",
+      "location": "Remote",
+      "why": "Builds the internal 'software factory': AI coding tools, CI, code review, evals. No on-call mentioned.",
       "flags": [],
       "digests_seen_in": 1,
       "digest_numbers": [
-        9
+        14
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Thankly",
-      "title": "Founding Engineer",
-      "salary": "",
-      "location": "US remote",
-      "why": "Early-stage.",
-      "flags": [],
+      "company": "Unnamed company (via Jobgether)",
+      "title": "Senior SWE, AI DevEx",
+      "salary": "$150k–$190k",
+      "location": "Fully remote",
+      "why": "Platform for coding agents.",
+      "flags": [
+        "Connects agents to incident tools",
+        "Level and pay lower than target"
+      ],
       "digests_seen_in": 1,
       "digest_numbers": [
-        9
+        11
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"
@@ -522,17 +915,50 @@
       "source": "daily AI job search digests (undated, pasted by user)"
     },
     {
-      "company": "Zed Industries",
-      "title": "Backend Engineer, Cloud",
-      "salary": "",
-      "location": "Remote",
-      "why": "AI-native code editor built around agents.",
+      "company": "Waabi",
+      "title": "Senior/Staff Software Engineer, AI Tooling",
+      "salary": "$165k–$265k",
+      "location": "Listing says both Remote US and Hybrid",
+      "why": "Internal AI tooling, agents and AI coding tool rollouts.",
       "flags": [
-        "Title not labeled senior; level unclear"
+        "Remote vs hybrid needs confirming"
       ],
       "digests_seen_in": 1,
       "digest_numbers": [
-        5
+        13
+      ],
+      "url": null,
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "ZenBusiness",
+      "title": "Senior Software Engineer, Developer Platform & AI Tooling",
+      "salary": "",
+      "location": "Unconfirmed",
+      "why": "Title fits internal AI tooling.",
+      "flags": [
+        "Listing would not load; remote, pay and level unconfirmed"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        20
+      ],
+      "url": "https://job-boards.greenhouse.io/zenbusiness/jobs/5201646007",
+      "source": "daily AI job search digests (undated, pasted by user)"
+    },
+    {
+      "company": "Zocdoc",
+      "title": "Staff Platform Engineer, AI Enablement",
+      "salary": "$210k–$270k",
+      "location": "Open to remote; team in NYC",
+      "why": "",
+      "flags": [
+        "Mentions on-call",
+        "Posting about 8 weeks old"
+      ],
+      "digests_seen_in": 1,
+      "digest_numbers": [
+        11
       ],
       "url": null,
       "source": "daily AI job search digests (undated, pasted by user)"

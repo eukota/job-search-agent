@@ -287,14 +287,14 @@
   },
   {
     "name": "Hightouch",
-    "ats_type": "ashby",
-    "board_token": "hightouch",
-    "careers_url": "https://jobs.ashbyhq.com/hightouch/7f302222-2e06-4e37-8766-87b3bf6068e6",
+    "ats_type": "none",
+    "board_token": "",
+    "careers_url": "https://job-boards.greenhouse.io/hightouch",
     "tier": "B",
     "ai_native": true,
     "remote_policy": "Remote",
     "pay_signal": "Unknown",
-    "why": "Has posted Staff Engineer, AI Productivity",
+    "why": "Has posted Staff Engineer, AI Productivity Digests show the Staff Engineer, AI Productivity role on Greenhouse, but the public Greenhouse API returns 404 for token \"hightouch\", so watch manually.",
     "added": "2026-11-21",
     "added_by": "seed"
   },
@@ -440,5 +440,31 @@
     "why": "Uses Workable (not scrapable); Claude run watches it",
     "added": "2026-11-21",
     "added_by": "seed"
+  },
+  {
+    "name": "TRM Labs",
+    "ats_type": "ashby",
+    "board_token": "trm-labs",
+    "careers_url": "https://jobs.ashbyhq.com/trm-labs",
+    "tier": "B",
+    "ai_native": false,
+    "remote_policy": "US remote agent roles",
+    "pay_signal": "Staff Agent Engineer listed; pay not listed",
+    "why": "Seen in several daily digests (Staff Agent Engineer, US Remote). Token verified: 116 postings.",
+    "added": "2026-11-22",
+    "added_by": "claude-session"
+  },
+  {
+    "name": "Grafana Labs",
+    "ats_type": "greenhouse",
+    "board_token": "grafanalabs",
+    "careers_url": "https://job-boards.greenhouse.io/grafanalabs",
+    "tier": "B",
+    "ai_native": false,
+    "remote_policy": "US remote for some roles; one digest says Canada-only",
+    "pay_signal": "$154k-$185k + stock for Staff AI Engineer",
+    "why": "Staff AI Engineer (multi-agent, MCP, evals) seen in digests. Token verified: 139 postings.",
+    "added": "2026-11-22",
+    "added_by": "claude-session"
   }
 ]
