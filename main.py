@@ -52,7 +52,7 @@ def main():
             stats[name] = {"status": "not scrapable (watch manually)"}
             continue
         try:
-            postings = fetch(name, token)
+            postings = fetch(name, token, c)
         except Exception as e:  # keep going; one bad board shouldn't sink the run
             print(f"  ! {name}: {e}")
             stats[name] = {"status": f"error: {type(e).__name__}"}
